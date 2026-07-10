@@ -1,5 +1,5 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Thursday, Jul 09 21:26 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Friday, Jul 10 12:39 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
@@ -19,7 +19,7 @@ _Draft generated Thursday, Jul 09 21:26 (Europe/Madrid)_. _Review, edit, persona
 
 💼 *Mentor, SPAR* — Kairos
 > 🌍 Remote, Global
-> ⏰ Deadline: Jul 17
+> ⏰ Deadline: Jul 22
 > 👉 https://sparai.org/mentors/?utm_source=80000hours&utm_medium=job-board
 
 💼 *Safe Pareto Improvements Fundamentals Program* — Center on Long-Term Risk
@@ -38,7 +38,7 @@ _Draft generated Thursday, Jul 09 21:26 (Europe/Madrid)_. _Review, edit, persona
 > 👉 https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world?utm_source=80000hours&utm_medium=job-board
 
 💼 *Head of Communications* — FAR AI
-> 🌍 Remote, Global, Remote, USA
+> 🌍 Remote, Global, San Francisco Bay Area
 > 👉 https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js&utm_source=80000hours&utm_medium=job-board
 
 💼 *Contractor Opportunities, AI, Biosecurity, and AI-Bio* — Centre for Long-Term Resilience
@@ -65,6 +65,10 @@ _Draft generated Thursday, Jul 09 21:26 (Europe/Madrid)_. _Review, edit, persona
 
 🚀 *We've Just Launched Our Grant Readiness Course*
 > 👉 https://forum.effectivealtruism.org/posts/s2LxioMaDqLSHwqgg/we-ve-just-launched-our-grant-readiness-course
+> _Posted Jul 06 on the EA Forum_
+
+🚀 *Join Our AI Safety × Philosophy Reading Group*
+> 👉 https://forum.effectivealtruism.org/posts/9d2atwvZJbC4wJpfo/join-our-ai-safety-philosophy-reading-group
 > _Posted Jul 06 on the EA Forum_
 
 🚀 *Yuval Harari: philanthropy principles + 3 AI-focused charities he recommends (7/4, link udpate)*
