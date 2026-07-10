@@ -1,0 +1,45 @@
+name: Weekly digest
+
+on:
+  schedule:
+    # Monday 05:00 UTC = 07:00 CEST / 06:00 CET.
+    # NOTE: GitHub pauses scheduled runs after ~60 days without repo
+    # activity; the weekly commit below keeps the repo active.
+    - cron: "0 5 * * 1"
+  workflow_dispatch: {}   # "Run workflow" button for on-demand runs
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python run.py
+        env:
+          # all three are OPTIONAL — the digest runs fine without them
+          SHEET_WEBHOOK_URL: ${{ secrets.SHEET_WEBHOOK_URL }}      # Google Sheet log
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}      # JS-heavy sites
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}      # LLM blurbs
+
+      - name: Commit output
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "Weekly digest $(date -u +%F)" || echo "nothing to commit"
+          git push
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest
+          path: output/

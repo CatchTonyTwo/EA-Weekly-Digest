@@ -1,0 +1,160 @@
+# ============================================================
+# EA Weekly Digest — community configuration
+# This is the ONLY file you need to edit to adapt the tool
+# to your community. See README.md for instructions.
+# ============================================================
+
+community:
+  name: EA Barcelona
+  timezone: Europe/Madrid     # IANA timezone for all displayed times
+  language: en
+
+window:
+  this_week_days: 7           # "THIS WEEK" = next N days
+  coming_up_days: 28          # "COMING UP SOON" = day N+1 .. this value
+  opportunities_max_age_days: 10   # how recent an opportunity post must be
+
+# ------------------------------------------------------------
+# EVENT SOURCES
+# type options:
+#   luma_ics    — a Luma calendar. Needs calendar_id (cal-XXXX).
+#   luma_page   — a Luma page URL. The tool auto-discovers the
+#                 calendar id from the page. (User profile pages
+#                 without a calendar are reported in health.md.)
+#   meetup_ics  — a Meetup group. Needs group (the URL slug).
+#   eaforum_events — EA Forum events, filtered by location keywords.
+# "ours: true"  = organised by this community (no attribution line)
+# "organizer"   = shown as "(Organised by X)" when not ours
+# ------------------------------------------------------------
+sources:
+  events:
+    - name: EA Barcelona (Luma)
+      type: luma_ics
+      calendar_id: cal-9tdD2nUvxmygpXa
+      ours: true
+
+    - name: EA UPF (Luma)
+      type: luma_ics
+      calendar_id: cal-tGf4AT41sg9x84n
+      organizer: EA UPF
+
+    - name: All Tech is Human BCN (Luma)
+      type: luma_ics
+      calendar_id: cal-DUg0ZzJOWLr1FBv
+      organizer: All Tech is Human BCN
+      relevant_note: Not organised by us but relevant!
+
+    - name: AI Safety Barcelona (Luma user page)
+      type: luma_page
+      url: https://luma.com/user/aisafetybcn
+      organizer: AI Safety Barcelona
+
+    - name: EA Madrid (Meetup)
+      type: meetup_ics
+      group: effective-altruism-madrid
+      organizer: EA Madrid
+
+    - name: ESALogika (Meetup)
+      type: meetup_ics
+      group: barcelona-community-meetup-group
+      organizer: ESALogika
+
+    - name: Social Impact Meetups (Meetup)
+      type: meetup_ics
+      group: barcelona-international-development-professionals
+      organizer: The Social Impact Meetups
+      relevant_note: Not organised by us but relevant!
+
+    # ---- Firecrawl tier (optional, paid API — see docs/SETUP.md) ----
+    # These run only when the FIRECRAWL_API_KEY secret is set; otherwise
+    # they're skipped and health.md shows the manual-check link.
+    - name: Norrsken events (Firecrawl)
+      type: firecrawl_events
+      url: https://www.norrsken.org/events
+      filter_keywords: [barcelona]
+      organizer: Norrsken
+      relevant_note: Not organised by us but relevant!
+
+    # Eventbrite discovery is noisy — enable only if you want it:
+    # - name: Eventbrite BCN social impact (Firecrawl)
+    #   type: firecrawl_events
+    #   url: https://www.eventbrite.com/d/spain--barcelona/social-impact/
+    #   filter_keywords: []
+    #   relevant_note: Not organised by us but relevant!
+
+    - name: EA Forum events
+      type: eaforum_events
+      # keep only events whose location matches one of these
+      # (case-insensitive). Online-only events are excluded unless
+      # include_online is true.
+      location_keywords: [barcelona, madrid, catalunya, spain, españa]
+      include_online: false
+      limit: 30
+
+  opportunities:
+    - name: EA Forum — Opportunities to take action
+      type: eaforum_tag
+      tag_slug: opportunities-to-take-action
+      min_score: 5           # skip very-low-karma posts
+      limit: 15
+
+  # --------------------------------------------------------------
+  # JOB BOARDS (type: algolia_jobs)
+  # Geographic priority: a job appears only in its FIRST matching
+  # tier, and tiers are shown in this order in the digest.
+  # app_id/api_key are the board's PUBLIC search-only keys (visible
+  # to every visitor in the browser's network tab — not secrets).
+  # --------------------------------------------------------------
+  jobs:
+    - name: 80,000 Hours job board
+      type: algolia_jobs
+      app_id: W6KM1UDIB3
+      api_key: d1d7f2c8696e7b36837d5ed337c4a319
+      index: jobs_prod
+      facet_field: tags_location_80k
+      max_age_days: 10        # default: only jobs posted in the last N days
+      limit_per_tier: 6
+      geo_tiers:
+        # local jobs are rare — look further back for them
+        - label: Barcelona
+          facets: ["Barcelona, Spain"]
+          max_age_days: 60
+        - label: Spain
+          facets: ["Spain"]
+          max_age_days: 45
+        - label: Remote — Europe
+          facets: ["Europe (ex UK)"]
+          require_keyword: remote    # only remote roles for this tier
+        - label: Remote — Global
+          facets: ["Remote, Global"]
+
+    # Probably Good uses Algolia too, but loads its keys at runtime.
+    # To enable: open jobs.probablygood.org in Chrome → DevTools →
+    # Network tab → filter "algolia" → click any request → copy
+    # x-algolia-application-id and x-algolia-api-key headers here:
+    # - name: Probably Good job board
+    #   type: algolia_jobs
+    #   app_id: PASTE_APP_ID
+    #   api_key: PASTE_API_KEY
+    #   index: jobs_prod
+    #   facet_field: locations.algolia_filter_name
+    #   geo_tiers:
+    #     - label: Barcelona
+    #       facets: ["[city] Barcelona, Spain"]
+    #     - label: Spain
+    #       facets: ["[country] Spain"]
+    #     - label: Remote
+    #       facets: ["[remote] Remote, Europe", "[remote] Remote, Global"]
+
+# Shown at the end of the digest when a week is thin
+# (fewer than `min_items` events in THIS WEEK + COMING UP SOON)
+fallback:
+  min_items: 3
+  intro: "Quieter week — a good moment to point people to evergreen resources:"
+  resources:
+    - "📚 Intro to EA and other courses: https://www.effectivealtruism.org/courses"
+    - "🤖 BlueDot AI safety courses: https://bluedot.org/courses"
+    - "🗓️ BlueDot events calendar: https://luma.com/bluedotevents"
+
+output:
+  dir: output
