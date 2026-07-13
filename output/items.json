@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T10:39:31.416991+00:00",
+  "generated": "2026-07-13T08:22:09.338126+00:00",
   "this_week": [
     {
       "description": "Environmental Social Association of Barcelona ESAlogika While the event itself is free of charge, **consumption at the venue is compulsory.** We appreciate your understanding that our team works voluntarily, but the venue needs to pay rent and other bills :) In this event you will explore: \\- Lifelong Learning as both a personal responsibility and a collective tool for sustainable transformation\\. \\- how the concept of Lifelong learning has evolved over time\\, particularly within the European co",
@@ -13,22 +13,56 @@
       "ours": false,
       "relevant_note": "",
       "all_day": false
+    },
+    {
+      "description": "Environmental Social Association of Barcelona ESAlogika ESALogika is hosting a walking tour using our new Sustainability Map! Our team has been working to create a sustainability map that lists places to buy sustainable products, refill containers, and host community events of your own. **Join us at Arc de Triomf on Saturday, July 18th at 6 P.M.** to join a group of others on a walk throughout the Ciutat Vella district! For further details about the tour, [please reference this link.](https://es",
+      "title": "ESALogika Sustainability Map Walking Tour",
+      "start": "2026-07-18T18:00:00+00:00",
+      "end": "2026-07-18T19:30:00+00:00",
+      "venue": "",
+      "url": "https://www.meetup.com/barcelona-community-meetup-group/events/315627590/",
+      "source": "ESALogika (Meetup)",
+      "organizer": "ESALogika",
+      "ours": false,
+      "relevant_note": "",
+      "all_day": false
     }
   ],
   "coming_up": [],
   "opportunities": [
     {
+      "title": "PauseCon London '26: Applications now open ",
+      "url": "https://forum.effectivealtruism.org/posts/ZsKAqje49cAQqgKuP/pausecon-london-26-applications-now-open",
+      "posted": "2026-07-10T16:28:30.040000+00:00",
+      "score": 10,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Seeking feedback and collaborators for an AI welfare project",
+      "url": "https://forum.effectivealtruism.org/posts/NLGaeqAmWzcawjutt/seeking-feedback-and-collaborators-for-an-ai-welfare-project",
+      "posted": "2026-07-10T14:50:03.354000+00:00",
+      "score": 11,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "A huge way you can help pigs in 5-20 minutes (in the US)",
+      "url": "https://forum.effectivealtruism.org/posts/42WKK8xwo5rLZyKqG/a-huge-way-you-can-help-pigs-in-5-20-minutes-in-the-us",
+      "posted": "2026-07-10T00:08:17.747000+00:00",
+      "score": 30,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
       "title": "Find funding, fast",
       "url": "https://forum.effectivealtruism.org/posts/YfwQMLFgSe9K8Y6dg/find-funding-fast",
       "posted": "2026-07-08T21:14:24.635000+00:00",
-      "score": 24,
+      "score": 26,
       "source": "EA Forum — Opportunities to take action"
     },
     {
       "title": "Help with Cost-Effectiveness Analysis: Social Connection as a Cause",
       "url": "https://forum.effectivealtruism.org/posts/x9qruvMxmX6SNryzh/help-with-cost-effectiveness-analysis-social-connection-as-a",
       "posted": "2026-07-08T18:11:18.870000+00:00",
-      "score": 5,
+      "score": 6,
       "source": "EA Forum — Opportunities to take action"
     },
     {
@@ -77,44 +111,11 @@
       "title": "Announcing the Safe Pareto Improvements (SPI) Fundamentals Program",
       "url": "https://forum.effectivealtruism.org/posts/SACeBpFpctozx9BkQ/announcing-the-safe-pareto-improvements-spi-fundamentals",
       "posted": "2026-07-03T15:49:37.472000+00:00",
-      "score": 29,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "RP is looking for project founders in neglected animal areas",
-      "url": "https://forum.effectivealtruism.org/posts/TsLvBf9dpmCcp9yrn/rp-is-looking-for-project-founders-in-neglected-animal-areas",
-      "posted": "2026-07-02T16:31:47.851000+00:00",
-      "score": 70,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Time Sensitive Do Gooding Opportunities",
-      "url": "https://forum.effectivealtruism.org/posts/oE8uFWrAKninWtmta/time-sensitive-do-gooding-opportunities",
-      "posted": "2026-07-02T15:29:15.586000+00:00",
-      "score": 32,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "You Should Come to The AI Protest",
-      "url": "https://forum.effectivealtruism.org/posts/3BxKx3J84pvKxapkj/you-should-come-to-the-ai-protest",
-      "posted": "2026-07-01T21:42:09.346000+00:00",
-      "score": 17,
+      "score": 30,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
-    "Spain": [
-      {
-        "title": "Specialist, Institutional Advocacy",
-        "org": "Animal Welfare Observatory",
-        "url": "https://observatoriodebienestaranimal.jobs.personio.com/job/2647367?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-05-28T00:00:00+00:00",
-        "closes": null,
-        "tier": "Spain",
-        "location": "Remote, Spain",
-        "source": "80,000 Hours job board"
-      }
-    ],
     "Remote — Global": [
       {
         "title": "Mentor, SPAR",
@@ -157,20 +158,20 @@
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Head of Communications",
-        "org": "FAR AI",
-        "url": "https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-07-07T00:05:00+00:00",
-        "closes": null,
-        "tier": "Remote — Global",
-        "location": "Remote, Global, San Francisco Bay Area",
-        "source": "80,000 Hours job board"
-      },
-      {
         "title": "Contractor Opportunities, AI, Biosecurity, and AI-Bio",
         "org": "Centre for Long-Term Resilience",
         "url": "https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/?utm_source=80000hours&utm_medium=job-board",
         "posted": "2026-07-09T00:02:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Trusted Red Team Network",
+        "org": "Syntony",
+        "url": "https://www.syntonyresearch.ai/work/trusted-red-team/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-07-10T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",

@@ -1,19 +1,17 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Friday, Jul 10 12:39 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Jul 13 10:22 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
 🗓️ *Sustainability Skills, Community and Lifelong Learning: from Vision to Practice* _(Organised by ESALogika)_
-> 🗓️ Tuesday, Jul 14 | 20:45 – 23:30
+> 🗓️ *Tomorrow* (Tuesday, Jul 14 | 20:45 – 23:30)
 > 👉 https://www.meetup.com/barcelona-community-meetup-group/events/315512699/
 
+🗓️ *ESALogika Sustainability Map Walking Tour* _(Organised by ESALogika)_
+> 🗓️ Saturday, Jul 18 | 20:00 – 21:30
+> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/315627590/
+
 🚀 *OPPORTUNITIES & JOBS*
-
-📍 *Spain*
-
-💼 *Specialist, Institutional Advocacy* — Animal Welfare Observatory
-> 🌍 Remote, Spain
-> 👉 https://observatoriodebienestaranimal.jobs.personio.com/job/2647367?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
@@ -37,15 +35,27 @@ _Draft generated Friday, Jul 10 12:39 (Europe/Madrid)_. _Review, edit, personali
 > ⏰ Deadline: Aug 08
 > 👉 https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world?utm_source=80000hours&utm_medium=job-board
 
-💼 *Head of Communications* — FAR AI
-> 🌍 Remote, Global, San Francisco Bay Area
-> 👉 https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js&utm_source=80000hours&utm_medium=job-board
-
 💼 *Contractor Opportunities, AI, Biosecurity, and AI-Bio* — Centre for Long-Term Resilience
 > 🌍 Remote, Global
 > 👉 https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/?utm_source=80000hours&utm_medium=job-board
 
+💼 *Trusted Red Team Network* — Syntony
+> 🌍 Remote, Global
+> 👉 https://www.syntonyresearch.ai/work/trusted-red-team/?utm_source=80000hours&utm_medium=job-board
+
 📰 *From the EA Forum*
+
+🚀 *PauseCon London '26: Applications now open *
+> 👉 https://forum.effectivealtruism.org/posts/ZsKAqje49cAQqgKuP/pausecon-london-26-applications-now-open
+> _Posted Jul 10 on the EA Forum_
+
+🚀 *Seeking feedback and collaborators for an AI welfare project*
+> 👉 https://forum.effectivealtruism.org/posts/NLGaeqAmWzcawjutt/seeking-feedback-and-collaborators-for-an-ai-welfare-project
+> _Posted Jul 10 on the EA Forum_
+
+🚀 *A huge way you can help pigs in 5-20 minutes (in the US)*
+> 👉 https://forum.effectivealtruism.org/posts/42WKK8xwo5rLZyKqG/a-huge-way-you-can-help-pigs-in-5-20-minutes-in-the-us
+> _Posted Jul 10 on the EA Forum_
 
 🚀 *Find funding, fast*
 > 👉 https://forum.effectivealtruism.org/posts/YfwQMLFgSe9K8Y6dg/find-funding-fast
@@ -82,18 +92,6 @@ _Draft generated Friday, Jul 10 12:39 (Europe/Madrid)_. _Review, edit, personali
 🚀 *Announcing the Safe Pareto Improvements (SPI) Fundamentals Program*
 > 👉 https://forum.effectivealtruism.org/posts/SACeBpFpctozx9BkQ/announcing-the-safe-pareto-improvements-spi-fundamentals
 > _Posted Jul 03 on the EA Forum_
-
-🚀 *RP is looking for project founders in neglected animal areas*
-> 👉 https://forum.effectivealtruism.org/posts/TsLvBf9dpmCcp9yrn/rp-is-looking-for-project-founders-in-neglected-animal-areas
-> _Posted Jul 02 on the EA Forum_
-
-🚀 *Time Sensitive Do Gooding Opportunities*
-> 👉 https://forum.effectivealtruism.org/posts/oE8uFWrAKninWtmta/time-sensitive-do-gooding-opportunities
-> _Posted Jul 02 on the EA Forum_
-
-🚀 *You Should Come to The AI Protest*
-> 👉 https://forum.effectivealtruism.org/posts/3BxKx3J84pvKxapkj/you-should-come-to-the-ai-protest
-> _Posted Jul 01 on the EA Forum_
 
 💡 Quieter week — a good moment to point people to evergreen resources:
 
