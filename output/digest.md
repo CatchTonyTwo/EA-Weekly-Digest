@@ -1,97 +1,96 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Jul 13 10:22 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Jul 20 10:12 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Sustainability Skills, Community and Lifelong Learning: from Vision to Practice* _(Organised by ESALogika)_
-> 🗓️ *Tomorrow* (Tuesday, Jul 14 | 20:45 – 23:30)
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/315512699/
-
-🗓️ *ESALogika Sustainability Map Walking Tour* _(Organised by ESALogika)_
-> 🗓️ Saturday, Jul 18 | 20:00 – 21:30
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/315627590/
+_(no events found for this week)_
 
 🚀 *OPPORTUNITIES & JOBS*
 
+📍 *Remote — Europe*
+
+💼 *AI Red Team Engineer* — White Circle
+> 🌍 Remote, USA, Remote, UK
+> 👉 https://jobs.ashbyhq.com/whitecircle/d2c5f461-55d2-4c20-97a6-41a0fa0b51e9?utm_source=80000hours&utm_medium=job-board
+
 📍 *Remote — Global*
 
-💼 *Mentor, SPAR* — Kairos
-> 🌍 Remote, Global
-> ⏰ Deadline: Jul 22
-> 👉 https://sparai.org/mentors/?utm_source=80000hours&utm_medium=job-board
-
-💼 *Safe Pareto Improvements Fundamentals Program* — Center on Long-Term Risk
-> 🌍 Remote, Global
-> ⏰ Deadline: Jul 24
-> 👉 https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals?utm_source=80000hours&utm_medium=job-board
-
-💼 *Futurekind AI Fellowship (Summer 2026)* — Electric Sheep
-> 🌍 Remote, Global
-> ⏰ Deadline: Aug 05
-> 👉 https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board
-
-💼 *Fund, Multi-Agent Safety* — Cooperative AI Foundation
+💼 *Teacher* — Technical Alignment Research Accelerator
 > 🌍 Remote, Global
 > ⏰ Deadline: Aug 08
-> 👉 https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world?utm_source=80000hours&utm_medium=job-board
+> 👉 https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board#heading=h.ewt0qmeqot2d
 
-💼 *Contractor Opportunities, AI, Biosecurity, and AI-Bio* — Centre for Long-Term Resilience
+💼 *Careers Fellowship* — Jewish Social Impact Network
 > 🌍 Remote, Global
-> 👉 https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Aug 09
+> 👉 https://jewishsocialimpact.org/fellowship/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Trusted Red Team Network* — Syntony
+💼 *Research Fellowship* — AI Alignment Foundation
 > 🌍 Remote, Global
-> 👉 https://www.syntonyresearch.ai/work/trusted-red-team/?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Aug 17
+> 👉 https://www.aialignmentfoundation.org/fellowship?utm_source=80000hours&utm_medium=job-board
+
+💼 *Career Bootcamp Lead* — Centre for Effective Altruism
+> 🌍 Remote, Global
+> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101&utm_source=80000hours&utm_medium=job-board
+
+💼 *Product Lead, Opportunities Board* — Centre for Effective Altruism
+> 🌍 Remote, Global
+> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=97c6c334-bd3d-4fc3-a3f9-3d3928c343d1&utm_source=80000hours&utm_medium=job-board
+
+💼 *Operations Coordinator* — Mirror Biology Dialogues Fund
+> 🌍 Remote, Global, Remote, USA
+> 👉 https://mirrorbiologydialoguesfund.applytojob.com/apply/XetnCqPCPE/Operations-Coordinator?source=Our%20Career%20Page%20Widget&utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
 
-🚀 *PauseCon London '26: Applications now open *
-> 👉 https://forum.effectivealtruism.org/posts/ZsKAqje49cAQqgKuP/pausecon-london-26-applications-now-open
-> _Posted Jul 10 on the EA Forum_
+🚀 *A proposal for food retail and services: the internal animal welfare feebate*
+> 👉 https://forum.effectivealtruism.org/posts/PmiJwnLnjQdPMC9QC/a-proposal-for-food-retail-and-services-the-internal-animal
+> _Posted Jul 18 on the EA Forum_
 
-🚀 *Seeking feedback and collaborators for an AI welfare project*
-> 👉 https://forum.effectivealtruism.org/posts/NLGaeqAmWzcawjutt/seeking-feedback-and-collaborators-for-an-ai-welfare-project
-> _Posted Jul 10 on the EA Forum_
+🚀 *announcing High Impact Aliens*
+> 👉 https://forum.effectivealtruism.org/posts/S6BgaPpiAv3JX63vH/announcing-high-impact-aliens
+> _Posted Jul 17 on the EA Forum_
 
-🚀 *A huge way you can help pigs in 5-20 minutes (in the US)*
-> 👉 https://forum.effectivealtruism.org/posts/42WKK8xwo5rLZyKqG/a-huge-way-you-can-help-pigs-in-5-20-minutes-in-the-us
-> _Posted Jul 10 on the EA Forum_
+🚀 *Announcing the Jewish Social Impact Careers Fellowship*
+> 👉 https://forum.effectivealtruism.org/posts/Qscyf5CpQKERXDSHe/announcing-the-jewish-social-impact-careers-fellowship
+> _Posted Jul 16 on the EA Forum_
 
-🚀 *Find funding, fast*
-> 👉 https://forum.effectivealtruism.org/posts/YfwQMLFgSe9K8Y6dg/find-funding-fast
-> _Posted Jul 08 on the EA Forum_
+🚀 *Help us launch AI safety university groups by referring potential founders*
+> 👉 https://forum.effectivealtruism.org/posts/Wjg5htFNeYkxNaRnk/help-us-launch-ai-safety-university-groups-by-referring
+> _Posted Jul 16 on the EA Forum_
 
-🚀 *Help with Cost-Effectiveness Analysis: Social Connection as a Cause*
-> 👉 https://forum.effectivealtruism.org/posts/x9qruvMxmX6SNryzh/help-with-cost-effectiveness-analysis-social-connection-as-a
-> _Posted Jul 08 on the EA Forum_
+🚀 *Save the date: Swiss AI Safety Days 2026 (7-8 November, ETH Zurich)*
+> 👉 https://forum.effectivealtruism.org/posts/ArN3yrLztxjXeKC88/save-the-date-swiss-ai-safety-days-2026-7-8-november-eth
+> _Posted Jul 16 on the EA Forum_
 
-🚀 *Inspiring colleagues in Luxembourg on Effective Giving + identifying infrastructural gaps*
-> 👉 https://forum.effectivealtruism.org/posts/SPZnjewG6PCXz89Nd/inspiring-colleagues-in-luxembourg-on-effective-giving
-> _Posted Jul 07 on the EA Forum_
+🚀 *GiveWell Hiring: Senior Philanthropy Advisor*
+> 👉 https://forum.effectivealtruism.org/posts/27CMcfWo5xuqiWHyq/givewell-hiring-senior-philanthropy-advisor
+> _Posted Jul 16 on the EA Forum_
 
-🚀 *Strategy Roles - Fortify Health*
-> 👉 https://forum.effectivealtruism.org/posts/xCziuwXdWPJAr4ugk/strategy-roles-fortify-health
-> _Posted Jul 07 on the EA Forum_
+🚀 *Applications open for new supported programs on the GWWC donation platform (2026)*
+> 👉 https://forum.effectivealtruism.org/posts/rC5nJnjPsqb3SKsPc/applications-open-for-new-supported-programs-on-the-gwwc
+> _Posted Jul 16 on the EA Forum_
 
-🚀 *We've Just Launched Our Grant Readiness Course*
-> 👉 https://forum.effectivealtruism.org/posts/s2LxioMaDqLSHwqgg/we-ve-just-launched-our-grant-readiness-course
-> _Posted Jul 06 on the EA Forum_
+🚀 *Free, client-funded daily 1:1 accountability coaching for people active in the EA ecosystem (GoalsWon)*
+> 👉 https://forum.effectivealtruism.org/posts/M97bxMDTzjifgTi5B/free-client-funded-daily-1-1-accountability-coaching-for
+> _Posted Jul 15 on the EA Forum_
 
-🚀 *Join Our AI Safety × Philosophy Reading Group*
-> 👉 https://forum.effectivealtruism.org/posts/9d2atwvZJbC4wJpfo/join-our-ai-safety-philosophy-reading-group
-> _Posted Jul 06 on the EA Forum_
+🚀 *EA Netherlands is recruiting up to two board members — open internationally (one potentially as chair)*
+> 👉 https://forum.effectivealtruism.org/posts/cGLK6bWfpPBaNd9Qz/ea-netherlands-is-recruiting-up-to-two-board-members-open
+> _Posted Jul 14 on the EA Forum_
 
-🚀 *Yuval Harari: philanthropy principles + 3 AI-focused charities he recommends (7/4, link udpate)*
-> 👉 https://forum.effectivealtruism.org/posts/Tg9mBTKqScNie8xCR/yuval-harari-philanthropy-principles-3-ai-focused-charities
-> _Posted Jul 03 on the EA Forum_
+🚀 *The Humane League UK is hiring a Senior Fundraising Administrator *
+> 👉 https://forum.effectivealtruism.org/posts/yjPzuYxmTkQKPDoDZ/the-humane-league-uk-is-hiring-a-senior-fundraising
+> _Posted Jul 14 on the EA Forum_
 
-🚀 *Effective petitions (July 2026)*
-> 👉 https://forum.effectivealtruism.org/posts/pTLTimdAs6RosdWSq/effective-petitions-july-2026
-> _Posted Jul 03 on the EA Forum_
+🚀 *Apply to the Sentient Futures Fall 2026 Project Incubator*
+> 👉 https://forum.effectivealtruism.org/posts/NrzNhmjRY3eisgLtd/apply-to-the-sentient-futures-fall-2026-project-incubator
+> _Posted Jul 14 on the EA Forum_
 
-🚀 *Announcing the Safe Pareto Improvements (SPI) Fundamentals Program*
-> 👉 https://forum.effectivealtruism.org/posts/SACeBpFpctozx9BkQ/announcing-the-safe-pareto-improvements-spi-fundamentals
-> _Posted Jul 03 on the EA Forum_
+🚀 *Hiring: Grants & Operations Associate - Giving What We Can*
+> 👉 https://forum.effectivealtruism.org/posts/yD9ecwDz53pPG4KZj/hiring-grants-and-operations-associate-giving-what-we-can
+> _Posted Jul 13 on the EA Forum_
 
 💡 Quieter week — a good moment to point people to evergreen resources:
 
