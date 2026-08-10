@@ -1,5 +1,5 @@
 # Source health report
-Run: 2026-08-03 08:35 UTC
+Run: 2026-08-10 06:15 UTC
 
 | Source | Status | Items | Note |
 |---|---|---|---|
@@ -12,7 +12,7 @@ Run: 2026-08-03 08:35 UTC
 | Social Impact Meetups (Meetup) | ⚠️ empty | 0 | 0 events in feed |
 | Norrsken events (Firecrawl) | ➖ skipped | 0 | skipped — set FIRECRAWL_API_KEY to enable (free tier at firecrawl.dev). Check manually: https://www.norrsken.org/events |
 | EA Forum events | ⚠️ empty | 0 | 16 events on forum, 0 matched location filter |
-| EA Forum — Opportunities to take action | ✅ ok | 12 | 15 posts on tag, 12 above min_score |
+| EA Forum — Opportunities to take action | ✅ ok | 14 | 15 posts on tag, 14 above min_score |
 | 80,000 Hours job board | ✅ ok | 8 | Barcelona: 0 (≤60d); Spain: 0 (≤45d); Remote — Europe: 2 (≤10d); Remote — Global: 6 (≤10d) |
 | LLM blurbs | ➖ skipped |  | ANTHROPIC_API_KEY not set (optional) |
 | Google Sheet log | ➖ skipped |  | SHEET_WEBHOOK_URL not set (optional) |
