@@ -1,54 +1,61 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Aug 10 08:15 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Aug 17 07:40 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
 _(no events found for this week)_
 
+🗓️ *COMING UP SOON*
+
+🗓️ *Pickling at Home Workshop 🥒* _(Organised by ESALogika)_
+> 🗓️ Saturday, Aug 29 | 19:00 – 20:30
+> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316128466/
+
 🚀 *OPPORTUNITIES & JOBS*
-
-📍 *Remote — Europe*
-
-💼 *Head of Corporate Relations / Co-Director* — Farmállatvédelem
-> 🌍 Remote, Hungary, Budapest, Hungary
-> ⏰ Deadline: Aug 31
-> 👉 https://docs.google.com/document/d/1-iSYLQiKZOfj6tywvskVV1STvXdRXXDoTqL1nX6_lIY/edit?tab=t.4c1epj147dhr&utm_source=80000hours&utm_medium=job-board
-
-💼 *Technical Program Manager* — Lucid Computing
-> 🌍 Remote, Europe
-> 👉 https://lucidcomputing.ai/careers?utm_source=80000hours&utm_medium=job-board#technical-program-manager
 
 📍 *Remote — Global*
 
-💼 *AI Policy Research Fellowship (x2)* — INHR
+💼 *Grantee, Emergent Ventures* — George Mason University, Mercatus Center
 > 🌍 Remote, Global
-> ⏰ Deadline: Aug 21
-> 👉 https://docs.google.com/document/d/1brejHNr1FXHVjuuxlpQ-Kucny3R8nR-s/edit?usp=sharing&ouid=116170959638186777523&rtpof=true&sd=true&utm_source=80000hours&utm_medium=job-board
+> 👉 https://www.mercatus.org/emergent-ventures?utm_source=80000hours&utm_medium=job-board
 
-💼 *Bulletin Editorial Fellow* — University of Chicago, Bulletin of the Atomic Scientists
+💼 *Head of SPAR* — Kairos
 > 🌍 Remote, Global
-> ⏰ Deadline: Aug 28
-> 👉 https://thebulletin.org/2026/08/apply-to-be-a-2026-bulletin-editorial-fellow/?utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4?utm_source=80000hours&utm_medium=job-board
 
-💼 *AI Governance Taskforce (Autumn 2026)* — Arcadia Impact
-> 🌍 Remote, Global
-> ⏰ Deadline: Aug 31
-> 👉 https://www.arcadiaimpact.org/ai-governance-taskforce?utm_source=80000hours&utm_medium=job-board
+💼 *Research Engineer* — FAR AI
+> 🌍 Remote, Global, San Francisco Bay Area
+> 👉 https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js&utm_source=80000hours&utm_medium=job-board
 
-💼 *Hi-Med Career Planning Course* — High Impact Medicine
+💼 *Contractor, Senior Technical Advisor, AI Capability Assessment* — Institute for Security and Technology
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 04
-> 👉 https://www.highimpactmedicine.org/career-planning?utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.gusto.com/postings/institute-for-security-and-technology-senior-technical-advisor-ai-capability-assessment-0e6f3fb9-47b3-4974-b799-59f68fa53a95?utm_source=80000hours&utm_medium=job-board
 
-💼 *Request for Proposals, AI Safety Grant* — Foresight Institute
+💼 *GenAI Biosecurity Expert* — Alice
 > 🌍 Remote, Global
-> 👉 https://foresight.org/request-for-proposals/?utm_source=80000hours&utm_medium=job-board
+> 👉 https://alice.io/positions/position-94_07f?utm_source=80000hours&utm_medium=job-board
 
-💼 *Program Associate* — Myrias
+💼 *GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert* — Alice
 > 🌍 Remote, Global
-> 👉 https://myrias.org/careers?utm_source=80000hours&utm_medium=job-board
+> 👉 https://alice.io/positions/position-f4_070?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
+
+🚀 *Concrete Generalist Projects in AI Safety (and how to do them)*
+> 👉 https://forum.effectivealtruism.org/posts/3gaKC5xfcQYjuzQ7r/concrete-generalist-projects-in-ai-safety-and-how-to-do-them-2
+> _Posted Aug 13 on the EA Forum_
+
+🚀 *High Impact Athletes is hiring a Head of Finance & Operations (remote, APAC-preferred, up to US$100k, CFO/COO path)*
+> 👉 https://forum.effectivealtruism.org/posts/mGQNPStHwcHmNwApg/high-impact-athletes-is-hiring-a-head-of-finance-and
+> _Posted Aug 12 on the EA Forum_
+
+🚀 *You should start a local org to lobby your representatives about AI x-risk*
+> 👉 https://forum.effectivealtruism.org/posts/vazpeCagy2vHfmJ9g/you-should-start-a-local-org-to-lobby-your-representatives
+> _Posted Aug 11 on the EA Forum_
+
+🚀 *EA Organisation Updates thread: August 2026*
+> 👉 https://forum.effectivealtruism.org/posts/hxkbtv6nkSm7uJDmP/ea-organisation-updates-thread-august-2026
+> _Posted Aug 10 on the EA Forum_
 
 🚀 *Announcing Lateral Workshop for experienced professionals moving into AI safety*
 > 👉 https://forum.effectivealtruism.org/posts/dtZZAPbtx99Xm9NvB/announcing-lateral-workshop-for-experienced-professionals-1
@@ -65,46 +72,6 @@ _(no events found for this week)_
 🚀 *80,000 Hours is hiring for 6 roles across our headhunting and studio teams*
 > 👉 https://forum.effectivealtruism.org/posts/AzwqmeQXfkqhcMcSf/80-000-hours-is-hiring-for-6-roles-across-our-headhunting
 > _Posted Aug 07 on the EA Forum_
-
-🚀 *UK Voters for Animals is running our 2nd mass lobby day! Tuesday 10th November. *
-> 👉 https://forum.effectivealtruism.org/posts/oQZCtRcBCy55fPCjX/uk-voters-for-animals-is-running-our-2nd-mass-lobby-day
-> _Posted Aug 06 on the EA Forum_
-
-🚀 *Redesign of our MEL services and a call to action. *
-> 👉 https://forum.effectivealtruism.org/posts/zS9ApqoE7AJBav25T/redesign-of-our-mel-services-and-a-call-to-action
-> _Posted Aug 06 on the EA Forum_
-
-🚀 *Berkeley Genomics Project seeking hires (and collabs)*
-> 👉 https://forum.effectivealtruism.org/posts/5EApXmxy7QrLyrej7/berkeley-genomics-project-seeking-hires-and-collabs
-> _Posted Aug 05 on the EA Forum_
-
-🚀 *URGENT: Last Minute Save Our Bacon Action*
-> 👉 https://forum.effectivealtruism.org/posts/wfg5se4Fdhg95fHXQ/urgent-last-minute-save-our-bacon-action
-> _Posted Aug 05 on the EA Forum_
-
-🚀 *EA Animal Welfare Fund: Request for Proposals for Cage-Free Laying Hen Welfare*
-> 👉 https://forum.effectivealtruism.org/posts/x4sn7JHdkwvAPmuDr/ea-animal-welfare-fund-request-for-proposals-for-cage-free
-> _Posted Aug 05 on the EA Forum_
-
-🚀 *Free Branding for an Effective Charity *
-> 👉 https://forum.effectivealtruism.org/posts/hBBvDFkbd9GvTwuFu/free-branding-for-an-effective-charity
-> _Posted Aug 05 on the EA Forum_
-
-🚀 *Regranting in 2026: now more than ever*
-> 👉 https://forum.effectivealtruism.org/posts/BRdEfX6WNg4hGSYFk/regranting-in-2026-now-more-than-ever-1
-> _Posted Aug 05 on the EA Forum_
-
-🚀 *AMA with GiveWell’s Chief Operations Officer*
-> 👉 https://forum.effectivealtruism.org/posts/RtTjTTLX6bTZWBEX6/ama-with-givewell-s-chief-operations-officer
-> _Posted Aug 04 on the EA Forum_
-
-🚀 *Seeking a veterinarian for animal ethics board (Very high impact, ~20–50 hours/year)*
-> 👉 https://forum.effectivealtruism.org/posts/vgCHPfeh2sw8d65on/seeking-a-veterinarian-for-animal-ethics-board-very-high
-> _Posted Aug 04 on the EA Forum_
-
-🚀 *GiveWell Hiring: Operations Round*
-> 👉 https://forum.effectivealtruism.org/posts/ji8tqHQaARKrDrTxg/givewell-hiring-operations-round
-> _Posted Aug 04 on the EA Forum_
 
 💡 Quieter week — a good moment to point people to evergreen resources:
 
