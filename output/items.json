@@ -1,7 +1,6 @@
 {
-  "generated": "2026-08-17T05:40:24.290146+00:00",
-  "this_week": [],
-  "coming_up": [
+  "generated": "2026-08-24T05:43:57.735360+00:00",
+  "this_week": [
     {
       "description": "Environmental Social Association of Barcelona ESAlogika \\*Note: if this is your first member's event with us, confirmation is **required** by clicking [HERE](https://forms.gle/9AKw678SNqQpQpbJ8) (Google form to get your name and contact). Our August members' meet is a **Pickling at Home Workshop** 🥒 The location is near metro Les Corts, but exact address will be revealed after confirmation. *Please email hola@esalogika.com with your full name and title of the workshop to receive the address.* Ma",
       "title": "Pickling at Home Workshop 🥒",
@@ -16,121 +15,127 @@
       "all_day": false
     }
   ],
+  "coming_up": [],
   "opportunities": [
     {
-      "title": "Concrete Generalist Projects in AI Safety (and how to do them)",
-      "url": "https://forum.effectivealtruism.org/posts/3gaKC5xfcQYjuzQ7r/concrete-generalist-projects-in-ai-safety-and-how-to-do-them-2",
-      "posted": "2026-08-13T19:12:09.818000+00:00",
-      "score": 34,
+      "title": "14 High-Impact Projects for Ambitious Students",
+      "url": "https://forum.effectivealtruism.org/posts/hZxjcpCLQ6YdRdHRh/14-high-impact-projects-for-ambitious-students",
+      "posted": "2026-08-21T19:54:06.338000+00:00",
+      "score": 9,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "High Impact Athletes is hiring a Head of Finance & Operations (remote, APAC-preferred, up to US$100k, CFO/COO path)",
-      "url": "https://forum.effectivealtruism.org/posts/mGQNPStHwcHmNwApg/high-impact-athletes-is-hiring-a-head-of-finance-and",
-      "posted": "2026-08-12T03:07:54.613000+00:00",
+      "title": "College EA Meetups Everywhere: Call For Organizers",
+      "url": "https://forum.effectivealtruism.org/posts/CJpa5psHkFGueWHP4/college-ea-meetups-everywhere-call-for-organizers",
+      "posted": "2026-08-20T23:02:02.057000+00:00",
+      "score": 41,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "GiveWell Hiring: Head of Legal",
+      "url": "https://forum.effectivealtruism.org/posts/qrLGhoMaJbTDyq9mv/givewell-hiring-head-of-legal",
+      "posted": "2026-08-20T19:27:52.984000+00:00",
       "score": 7,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "You should start a local org to lobby your representatives about AI x-risk",
-      "url": "https://forum.effectivealtruism.org/posts/vazpeCagy2vHfmJ9g/you-should-start-a-local-org-to-lobby-your-representatives",
-      "posted": "2026-08-11T01:47:57.717000+00:00",
+      "title": "Sentient Futures Summit Bay Area 2027",
+      "url": "https://forum.effectivealtruism.org/posts/TY44tu8qpqP9xdmoL/sentient-futures-summit-bay-area-2027",
+      "posted": "2026-08-19T14:28:27.414000+00:00",
+      "score": 38,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Case for Funding AI Safety in Japan",
+      "url": "https://forum.effectivealtruism.org/posts/sGSgKbsTFFqvBrbWn/case-for-funding-ai-safety-in-japan",
+      "posted": "2026-08-19T13:08:37.057000+00:00",
+      "score": 25,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "GiveWell Hiring: Cause Prioritization Lead",
+      "url": "https://forum.effectivealtruism.org/posts/kSmzFmdTMk5SEqANY/givewell-hiring-cause-prioritization-lead",
+      "posted": "2026-08-18T22:08:57.820000+00:00",
       "score": 7,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "EA Organisation Updates thread: August 2026",
-      "url": "https://forum.effectivealtruism.org/posts/hxkbtv6nkSm7uJDmP/ea-organisation-updates-thread-august-2026",
-      "posted": "2026-08-10T13:34:54.647000+00:00",
-      "score": 6,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Announcing Lateral Workshop for experienced professionals moving into AI safety",
-      "url": "https://forum.effectivealtruism.org/posts/dtZZAPbtx99Xm9NvB/announcing-lateral-workshop-for-experienced-professionals-1",
-      "posted": "2026-08-07T23:12:56.169000+00:00",
-      "score": 27,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "$10M RFP for Alt Protein Policy and Market-Shaping – Nova Vista Foundation",
-      "url": "https://forum.effectivealtruism.org/posts/uxodsfvcZdRpyJQES/usd10m-rfp-for-alt-protein-policy-and-market-shaping-nova",
-      "posted": "2026-08-07T19:54:50.504000+00:00",
-      "score": 16,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "New role: Director of Operations and Growth for Animal Welfare Org ",
-      "url": "https://forum.effectivealtruism.org/posts/fLYQzDfChpntpyytv/new-role-director-of-operations-and-growth-for-animal",
-      "posted": "2026-08-07T16:17:05.739000+00:00",
-      "score": 16,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "80,000 Hours is hiring for 6 roles across our headhunting and studio teams",
-      "url": "https://forum.effectivealtruism.org/posts/AzwqmeQXfkqhcMcSf/80-000-hours-is-hiring-for-6-roles-across-our-headhunting",
-      "posted": "2026-08-07T13:58:22.222000+00:00",
-      "score": 18,
+      "title": "Growing Requires Growth: Building the Systems Behind CEA’s Community Expansion",
+      "url": "https://forum.effectivealtruism.org/posts/KKCcwwam3gtAjH7z6/growing-requires-growth-building-the-systems-behind-cea-s",
+      "posted": "2026-08-17T20:42:36.043000+00:00",
+      "score": 56,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
+    "Remote — Europe": [
+      {
+        "title": "Student Assistant, Human-AI Collaboration for Cybersecurity",
+        "org": "Technical University of Darmstadt, Science and Technology for Peace and Security",
+        "url": "https://peasec.de/2026/peasec-stellenangebot-haicc/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-19T00:00:00+00:00",
+        "closes": "2026-09-15T00:00:00+00:00",
+        "tier": "Remote — Europe",
+        "location": "Remote, Global, Darmstadt, Germany",
+        "source": "80,000 Hours job board"
+      }
+    ],
     "Remote — Global": [
       {
-        "title": "Grantee, Emergent Ventures",
-        "org": "George Mason University, Mercatus Center",
-        "url": "https://www.mercatus.org/emergent-ventures?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-13T00:00:00+00:00",
-        "closes": null,
+        "title": "Operations Manager",
+        "org": "Astralis Foundation",
+        "url": "https://jobs.ashbyhq.com/AstralisFoundation/e499270d-e65c-4e08-bc93-8df87e9b069a?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-20T00:01:00+00:00",
+        "closes": "2026-08-28T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Head of SPAR",
-        "org": "Kairos",
-        "url": "https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-13T00:00:00+00:00",
-        "closes": null,
+        "title": "Futurekind AI Fellowship (Summer 2026)",
+        "org": "Electric Sheep",
+        "url": "https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-20T00:00:00+00:00",
+        "closes": "2026-09-15T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Research Engineer",
-        "org": "FAR AI",
-        "url": "https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-14T00:00:00+00:00",
-        "closes": null,
-        "tier": "Remote — Global",
-        "location": "Remote, Global, San Francisco Bay Area",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Contractor, Senior Technical Advisor, AI Capability Assessment",
-        "org": "Institute for Security and Technology",
-        "url": "https://jobs.gusto.com/postings/institute-for-security-and-technology-senior-technical-advisor-ai-capability-assessment-0e6f3fb9-47b3-4974-b799-59f68fa53a95?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-14T00:00:00+00:00",
-        "closes": null,
+        "title": "Impact Accelerator Program",
+        "org": "High Impact Professionals",
+        "url": "https://www.highimpactprofessionals.org/impact-accelerator?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-21T00:03:00+00:00",
+        "closes": "2026-09-20T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "GenAI Biosecurity Expert",
+        "title": "GenAI Chemical Safety Expert",
         "org": "Alice",
-        "url": "https://alice.io/positions/position-94_07f?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-14T00:01:00+00:00",
+        "url": "https://alice.io/positions/position-24_076?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-18T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert",
-        "org": "Alice",
-        "url": "https://alice.io/positions/position-f4_070?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-14T00:01:00+00:00",
+        "title": "Expression of Interest, Special Projects Associate",
+        "org": "Epoch AI",
+        "url": "https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-18T00:04:46+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "People Operations Associate / Manager",
+        "org": "Epoch AI",
+        "url": "https://jobs.lever.co/epoch-ai/3aee71a2-081d-4ec3-a561-3b38d3483078?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-18T00:04:47+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
