@@ -1,79 +1,113 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Aug 24 07:43 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Aug 31 13:30 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Pickling at Home Workshop 🥒* _(Organised by ESALogika)_
-> 🗓️ Saturday, Aug 29 | 19:00 – 20:30
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316128466/
+_(no events found for this week)_
 
 🚀 *OPPORTUNITIES & JOBS*
 
 📍 *Remote — Europe*
 
-💼 *Student Assistant, Human-AI Collaboration for Cybersecurity* — Technical University of Darmstadt, Science and Technology for Peace and Security
-> 🌍 Remote, Global, Darmstadt, Germany
-> ⏰ Deadline: Sep 15
-> 👉 https://peasec.de/2026/peasec-stellenangebot-haicc/?utm_source=80000hours&utm_medium=job-board
+💼 *Finance and Compliance Manager* — Safe AI Forum
+> 🌍 Remote, Europe, London, UK
+> ⏰ Deadline: Sep 13
+> 👉 https://saif.org/opportunities/finance-and-compliance-manager/?utm_source=80000hours&utm_medium=job-board
+
+💼 *Incubator Programme Lead* — Talos Network
+> 🌍 Remote, Europe, Remote, UK
+> ⏰ Deadline: Sep 16
+> 👉 https://docs.google.com/document/d/1pUzCtuLMDZQGZD-3EfmkLGUB9p_rvvfxwft-3baXR_c/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board
+
+💼 *AI Governance Roles, European Team* — The Future Society
+> 🌍 Brussels, Belgium, Remote, Europe
+> ⏰ Deadline: Sep 19
+> 👉 https://thefuturesociety.org/work-with-us/?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
-💼 *Operations Manager* — Astralis Foundation
-> 🌍 Remote, Global
-> ⏰ Deadline: Aug 28
-> 👉 https://jobs.ashbyhq.com/AstralisFoundation/e499270d-e65c-4e08-bc93-8df87e9b069a?utm_source=80000hours&utm_medium=job-board
+💼 *Technical Advisor, Fine-Tuning and Evals* — Mycelium
+> 🌍 Remote, Global, San Francisco Bay Area
+> ⏰ Deadline: Sep 11
+> 👉 https://docs.google.com/document/d/1hmp9sBfMalRQSvD6D_oTEFbYMGFErGkYWOA4slHl7v0/edit?usp=sharing&utm_source=80000hours&utm_medium=job-board
 
-💼 *Futurekind AI Fellowship (Summer 2026)* — Electric Sheep
+💼 *AI Cyber Red Teamer* — Trajectory Labs, PBC
 > 🌍 Remote, Global
-> ⏰ Deadline: Sep 15
-> 👉 https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board
+> 👉 https://www.trajectorylabs.com/careers/ai-cyber-red-teamer?utm_source=80000hours&utm_medium=job-board
 
-💼 *Impact Accelerator Program* — High Impact Professionals
-> 🌍 Remote, Global
-> ⏰ Deadline: Sep 20
-> 👉 https://www.highimpactprofessionals.org/impact-accelerator?utm_source=80000hours&utm_medium=job-board
+💼 *Alignment Scientist / Engineer* — AE Studio
+> 🌍 Remote, Global, Los Angeles, CA
+> 👉 https://grnh.se/43mtxhhh4us?utm_source=80000hours&utm_medium=job-board
 
-💼 *GenAI Chemical Safety Expert* — Alice
-> 🌍 Remote, Global
-> 👉 https://alice.io/positions/position-24_076?utm_source=80000hours&utm_medium=job-board
+💼 *Alignment Research Manager* — AE Studio
+> 🌍 Remote, Global, Los Angeles, CA
+> 👉 https://grnh.se/og92mzxr4us?utm_source=80000hours&utm_medium=job-board
 
-💼 *Expression of Interest, Special Projects Associate* — Epoch AI
+💼 *Courses Facilitator* — Sentient Futures
 > 🌍 Remote, Global
-> 👉 https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e?utm_source=80000hours&utm_medium=job-board
+> 👉 https://airtable.com/appUw7WBTmDU5xBko/pagQSdVZ4TWXAduCo/form?utm_source=80000hours&utm_medium=job-board
 
-💼 *People Operations Associate / Manager* — Epoch AI
+💼 *AI×Animals Course* — Sentient Futures
 > 🌍 Remote, Global
-> 👉 https://jobs.lever.co/epoch-ai/3aee71a2-081d-4ec3-a561-3b38d3483078?utm_source=80000hours&utm_medium=job-board
+> 👉 https://www.sentientfutures.ai/courses/aixanimals/?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
+
+🚀 *Job: Operations and/or Community Manager*
+> 👉 https://forum.effectivealtruism.org/posts/bhjNhXMi2vvDmCkEt/job-operations-and-or-community-manager
+> _Posted Aug 29 on the EA Forum_
+
+🚀 *Getting into the European Commission through the Blue Book Traineeship*
+> 👉 https://forum.effectivealtruism.org/posts/bvEdD5Fojymf4AHy6/getting-into-the-european-commission-through-the-blue-book
+> _Posted Aug 28 on the EA Forum_
+
+🚀 *Apply to the fall 2026 Sentient Futures AI×Animals Course*
+> 👉 https://forum.effectivealtruism.org/posts/wbQfSchMeTsWrQvpC/apply-to-the-fall-2026-sentient-futures-ai-animals-course
+> _Posted Aug 27 on the EA Forum_
+
+🚀 *Introducing 14 new AI Safety Communicators: Frame Fellowship 2.0 *
+> 👉 https://forum.effectivealtruism.org/posts/bQDBB8L9RjPmfGLiB/introducing-14-new-ai-safety-communicators-frame-fellowship
+> _Posted Aug 27 on the EA Forum_
+
+🚀 *Fiscal sponsorships for AI safety research*
+> 👉 https://forum.effectivealtruism.org/posts/9cfLuJndsBkbZhtDf/fiscal-sponsorships-for-ai-safety-research
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Catalyst Program Student Applications Now Open!*
+> 👉 https://forum.effectivealtruism.org/posts/wPEyvB8Bndpp6iEQs/catalyst-program-student-applications-now-open
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Now Hiring: Philanthropy Officer at Wild Animal Initiative*
+> 👉 https://forum.effectivealtruism.org/posts/Fpsjdy652omZouJ5M/now-hiring-philanthropy-officer-at-wild-animal-initiative
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Announcing the MATS Residency: A New Path for Experienced Researchers Working on AI Safety, or Moving Into it *
+> 👉 https://forum.effectivealtruism.org/posts/QQQqTfTsw8GJnESep/announcing-the-mats-residency-a-new-path-for-experienced
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Talos Network is hiring an Incubator Programme Lead (remote Europe/UK)*
+> 👉 https://forum.effectivealtruism.org/posts/ALJX9CQqduZabneBN/talos-network-is-hiring-an-incubator-programme-lead-remote
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Applications Open for the Impact Accelerator Program*
+> 👉 https://forum.effectivealtruism.org/posts/vfTPpdwYKBEChEPzZ/applications-open-for-the-impact-accelerator-program
+> _Posted Aug 26 on the EA Forum_
+
+🚀 *Magazine Fundraising*
+> 👉 https://forum.effectivealtruism.org/posts/g7ahmvrJZTEJtCXrc/magazine-fundraising
+> _Posted Aug 24 on the EA Forum_
+
+🚀 *Reading Group for BlueDot AGI Strategy Curriculum*
+> 👉 https://forum.effectivealtruism.org/posts/Jjddai5DNxGC43zSL/reading-group-for-bluedot-agi-strategy-curriculum
+> _Posted Aug 24 on the EA Forum_
+
+🚀 *I Want You for AI Safety*
+> 👉 https://forum.effectivealtruism.org/posts/Y6WMdAgNSeMAazxhm/i-want-you-for-ai-safety
+> _Posted Aug 22 on the EA Forum_
 
 🚀 *14 High-Impact Projects for Ambitious Students*
 > 👉 https://forum.effectivealtruism.org/posts/hZxjcpCLQ6YdRdHRh/14-high-impact-projects-for-ambitious-students
 > _Posted Aug 21 on the EA Forum_
-
-🚀 *College EA Meetups Everywhere: Call For Organizers*
-> 👉 https://forum.effectivealtruism.org/posts/CJpa5psHkFGueWHP4/college-ea-meetups-everywhere-call-for-organizers
-> _Posted Aug 20 on the EA Forum_
-
-🚀 *GiveWell Hiring: Head of Legal*
-> 👉 https://forum.effectivealtruism.org/posts/qrLGhoMaJbTDyq9mv/givewell-hiring-head-of-legal
-> _Posted Aug 20 on the EA Forum_
-
-🚀 *Sentient Futures Summit Bay Area 2027*
-> 👉 https://forum.effectivealtruism.org/posts/TY44tu8qpqP9xdmoL/sentient-futures-summit-bay-area-2027
-> _Posted Aug 19 on the EA Forum_
-
-🚀 *Case for Funding AI Safety in Japan*
-> 👉 https://forum.effectivealtruism.org/posts/sGSgKbsTFFqvBrbWn/case-for-funding-ai-safety-in-japan
-> _Posted Aug 19 on the EA Forum_
-
-🚀 *GiveWell Hiring: Cause Prioritization Lead*
-> 👉 https://forum.effectivealtruism.org/posts/kSmzFmdTMk5SEqANY/givewell-hiring-cause-prioritization-lead
-> _Posted Aug 18 on the EA Forum_
-
-🚀 *Growing Requires Growth: Building the Systems Behind CEA’s Community Expansion*
-> 👉 https://forum.effectivealtruism.org/posts/KKCcwwam3gtAjH7z6/growing-requires-growth-building-the-systems-behind-cea-s
-> _Posted Aug 17 on the EA Forum_
 
 💡 Quieter week — a good moment to point people to evergreen resources:
 

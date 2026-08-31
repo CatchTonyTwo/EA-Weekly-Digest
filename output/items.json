@@ -1,141 +1,196 @@
 {
-  "generated": "2026-08-24T05:43:57.735360+00:00",
-  "this_week": [
-    {
-      "description": "Environmental Social Association of Barcelona ESAlogika \\*Note: if this is your first member's event with us, confirmation is **required** by clicking [HERE](https://forms.gle/9AKw678SNqQpQpbJ8) (Google form to get your name and contact). Our August members' meet is a **Pickling at Home Workshop** 🥒 The location is near metro Les Corts, but exact address will be revealed after confirmation. *Please email hola@esalogika.com with your full name and title of the workshop to receive the address.* Ma",
-      "title": "Pickling at Home Workshop 🥒",
-      "start": "2026-08-29T17:00:00+00:00",
-      "end": "2026-08-29T18:30:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/barcelona-community-meetup-group/events/316128466/",
-      "source": "ESALogika (Meetup)",
-      "organizer": "ESALogika",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    }
-  ],
+  "generated": "2026-08-31T11:30:53.912826+00:00",
+  "this_week": [],
   "coming_up": [],
   "opportunities": [
+    {
+      "title": "Job: Operations and/or Community Manager",
+      "url": "https://forum.effectivealtruism.org/posts/bhjNhXMi2vvDmCkEt/job-operations-and-or-community-manager",
+      "posted": "2026-08-29T16:01:47.657000+00:00",
+      "score": 20,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Getting into the European Commission through the Blue Book Traineeship",
+      "url": "https://forum.effectivealtruism.org/posts/bvEdD5Fojymf4AHy6/getting-into-the-european-commission-through-the-blue-book",
+      "posted": "2026-08-28T13:55:28.996000+00:00",
+      "score": 8,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Apply to the fall 2026 Sentient Futures AI×Animals Course",
+      "url": "https://forum.effectivealtruism.org/posts/wbQfSchMeTsWrQvpC/apply-to-the-fall-2026-sentient-futures-ai-animals-course",
+      "posted": "2026-08-27T21:46:16.391000+00:00",
+      "score": 6,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Introducing 14 new AI Safety Communicators: Frame Fellowship 2.0 ",
+      "url": "https://forum.effectivealtruism.org/posts/bQDBB8L9RjPmfGLiB/introducing-14-new-ai-safety-communicators-frame-fellowship",
+      "posted": "2026-08-27T19:51:48.548000+00:00",
+      "score": 23,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Fiscal sponsorships for AI safety research",
+      "url": "https://forum.effectivealtruism.org/posts/9cfLuJndsBkbZhtDf/fiscal-sponsorships-for-ai-safety-research",
+      "posted": "2026-08-26T19:22:27.353000+00:00",
+      "score": 5,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Catalyst Program Student Applications Now Open!",
+      "url": "https://forum.effectivealtruism.org/posts/wPEyvB8Bndpp6iEQs/catalyst-program-student-applications-now-open",
+      "posted": "2026-08-26T16:35:45.015000+00:00",
+      "score": 5,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Now Hiring: Philanthropy Officer at Wild Animal Initiative",
+      "url": "https://forum.effectivealtruism.org/posts/Fpsjdy652omZouJ5M/now-hiring-philanthropy-officer-at-wild-animal-initiative",
+      "posted": "2026-08-26T16:25:35.146000+00:00",
+      "score": 10,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Announcing the MATS Residency: A New Path for Experienced Researchers Working on AI Safety, or Moving Into it ",
+      "url": "https://forum.effectivealtruism.org/posts/QQQqTfTsw8GJnESep/announcing-the-mats-residency-a-new-path-for-experienced",
+      "posted": "2026-08-26T16:07:57.699000+00:00",
+      "score": 12,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Talos Network is hiring an Incubator Programme Lead (remote Europe/UK)",
+      "url": "https://forum.effectivealtruism.org/posts/ALJX9CQqduZabneBN/talos-network-is-hiring-an-incubator-programme-lead-remote",
+      "posted": "2026-08-26T10:10:24.821000+00:00",
+      "score": 6,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Applications Open for the Impact Accelerator Program",
+      "url": "https://forum.effectivealtruism.org/posts/vfTPpdwYKBEChEPzZ/applications-open-for-the-impact-accelerator-program",
+      "posted": "2026-08-26T07:12:48.228000+00:00",
+      "score": 10,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Magazine Fundraising",
+      "url": "https://forum.effectivealtruism.org/posts/g7ahmvrJZTEJtCXrc/magazine-fundraising",
+      "posted": "2026-08-24T15:50:23.561000+00:00",
+      "score": 6,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Reading Group for BlueDot AGI Strategy Curriculum",
+      "url": "https://forum.effectivealtruism.org/posts/Jjddai5DNxGC43zSL/reading-group-for-bluedot-agi-strategy-curriculum",
+      "posted": "2026-08-24T14:28:54.690000+00:00",
+      "score": 10,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "I Want You for AI Safety",
+      "url": "https://forum.effectivealtruism.org/posts/Y6WMdAgNSeMAazxhm/i-want-you-for-ai-safety",
+      "posted": "2026-08-22T02:21:31.594000+00:00",
+      "score": 7,
+      "source": "EA Forum — Opportunities to take action"
+    },
     {
       "title": "14 High-Impact Projects for Ambitious Students",
       "url": "https://forum.effectivealtruism.org/posts/hZxjcpCLQ6YdRdHRh/14-high-impact-projects-for-ambitious-students",
       "posted": "2026-08-21T19:54:06.338000+00:00",
-      "score": 9,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "College EA Meetups Everywhere: Call For Organizers",
-      "url": "https://forum.effectivealtruism.org/posts/CJpa5psHkFGueWHP4/college-ea-meetups-everywhere-call-for-organizers",
-      "posted": "2026-08-20T23:02:02.057000+00:00",
-      "score": 41,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "GiveWell Hiring: Head of Legal",
-      "url": "https://forum.effectivealtruism.org/posts/qrLGhoMaJbTDyq9mv/givewell-hiring-head-of-legal",
-      "posted": "2026-08-20T19:27:52.984000+00:00",
-      "score": 7,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Sentient Futures Summit Bay Area 2027",
-      "url": "https://forum.effectivealtruism.org/posts/TY44tu8qpqP9xdmoL/sentient-futures-summit-bay-area-2027",
-      "posted": "2026-08-19T14:28:27.414000+00:00",
-      "score": 38,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Case for Funding AI Safety in Japan",
-      "url": "https://forum.effectivealtruism.org/posts/sGSgKbsTFFqvBrbWn/case-for-funding-ai-safety-in-japan",
-      "posted": "2026-08-19T13:08:37.057000+00:00",
-      "score": 25,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "GiveWell Hiring: Cause Prioritization Lead",
-      "url": "https://forum.effectivealtruism.org/posts/kSmzFmdTMk5SEqANY/givewell-hiring-cause-prioritization-lead",
-      "posted": "2026-08-18T22:08:57.820000+00:00",
-      "score": 7,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Growing Requires Growth: Building the Systems Behind CEA’s Community Expansion",
-      "url": "https://forum.effectivealtruism.org/posts/KKCcwwam3gtAjH7z6/growing-requires-growth-building-the-systems-behind-cea-s",
-      "posted": "2026-08-17T20:42:36.043000+00:00",
-      "score": 56,
+      "score": 21,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
     "Remote — Europe": [
       {
-        "title": "Student Assistant, Human-AI Collaboration for Cybersecurity",
-        "org": "Technical University of Darmstadt, Science and Technology for Peace and Security",
-        "url": "https://peasec.de/2026/peasec-stellenangebot-haicc/?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-19T00:00:00+00:00",
-        "closes": "2026-09-15T00:00:00+00:00",
+        "title": "Finance and Compliance Manager",
+        "org": "Safe AI Forum",
+        "url": "https://saif.org/opportunities/finance-and-compliance-manager/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-26T00:05:00+00:00",
+        "closes": "2026-09-13T00:00:00+00:00",
         "tier": "Remote — Europe",
-        "location": "Remote, Global, Darmstadt, Germany",
+        "location": "Remote, Europe, London, UK",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Incubator Programme Lead",
+        "org": "Talos Network",
+        "url": "https://docs.google.com/document/d/1pUzCtuLMDZQGZD-3EfmkLGUB9p_rvvfxwft-3baXR_c/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-25T00:05:00+00:00",
+        "closes": "2026-09-16T00:00:00+00:00",
+        "tier": "Remote — Europe",
+        "location": "Remote, Europe, Remote, UK",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "AI Governance Roles, European Team",
+        "org": "The Future Society",
+        "url": "https://thefuturesociety.org/work-with-us/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-27T00:05:00+00:00",
+        "closes": "2026-09-19T00:00:00+00:00",
+        "tier": "Remote — Europe",
+        "location": "Brussels, Belgium, Remote, Europe",
         "source": "80,000 Hours job board"
       }
     ],
     "Remote — Global": [
       {
-        "title": "Operations Manager",
-        "org": "Astralis Foundation",
-        "url": "https://jobs.ashbyhq.com/AstralisFoundation/e499270d-e65c-4e08-bc93-8df87e9b069a?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-20T00:01:00+00:00",
-        "closes": "2026-08-28T00:00:00+00:00",
+        "title": "Technical Advisor, Fine-Tuning and Evals",
+        "org": "Mycelium",
+        "url": "https://docs.google.com/document/d/1hmp9sBfMalRQSvD6D_oTEFbYMGFErGkYWOA4slHl7v0/edit?usp=sharing&utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-28T00:01:00+00:00",
+        "closes": "2026-09-11T00:00:00+00:00",
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, San Francisco Bay Area",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Futurekind AI Fellowship (Summer 2026)",
-        "org": "Electric Sheep",
-        "url": "https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-20T00:00:00+00:00",
-        "closes": "2026-09-15T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Impact Accelerator Program",
-        "org": "High Impact Professionals",
-        "url": "https://www.highimpactprofessionals.org/impact-accelerator?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-21T00:03:00+00:00",
-        "closes": "2026-09-20T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "GenAI Chemical Safety Expert",
-        "org": "Alice",
-        "url": "https://alice.io/positions/position-24_076?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-18T00:00:00+00:00",
+        "title": "AI Cyber Red Teamer",
+        "org": "Trajectory Labs, PBC",
+        "url": "https://www.trajectorylabs.com/careers/ai-cyber-red-teamer?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-28T00:03:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Expression of Interest, Special Projects Associate",
-        "org": "Epoch AI",
-        "url": "https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-18T00:04:46+00:00",
+        "title": "Alignment Scientist / Engineer",
+        "org": "AE Studio",
+        "url": "https://grnh.se/43mtxhhh4us?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-31T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global, Los Angeles, CA",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Alignment Research Manager",
+        "org": "AE Studio",
+        "url": "https://grnh.se/og92mzxr4us?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-31T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global, Los Angeles, CA",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Courses Facilitator",
+        "org": "Sentient Futures",
+        "url": "https://airtable.com/appUw7WBTmDU5xBko/pagQSdVZ4TWXAduCo/form?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-31T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "People Operations Associate / Manager",
-        "org": "Epoch AI",
-        "url": "https://jobs.lever.co/epoch-ai/3aee71a2-081d-4ec3-a561-3b38d3483078?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-08-18T00:04:47+00:00",
+        "title": "AI×Animals Course",
+        "org": "Sentient Futures",
+        "url": "https://www.sentientfutures.ai/courses/aixanimals/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-08-31T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
