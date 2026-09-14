@@ -1,9 +1,8 @@
 {
-  "generated": "2026-09-07T10:05:56.989169+00:00",
-  "this_week": [],
-  "coming_up": [
+  "generated": "2026-09-14T10:30:09.312361+00:00",
+  "this_week": [
     {
-      "description": "Environmental Social Association of Barcelona ESAlogika While the event itself is free of charge, **consumption at the venue is compulsory.** We appreciate your understanding that our team works voluntarily, but the venue needs to pay rent and other bills :) In this event you will explore: In this digital day and age artists are being pushed further to the periphery and the music industry is becoming increasingly unsustainable. Learn more about this topic, follow along a story of a local DJ coll",
+      "description": "Environmental Social Association of Barcelona ESAlogika While this event itself is free of charge, **consumption at the venue is compulsory.** We appreciate your understanding that our team works voluntarily, but the venue needs to pay rent and other bills :) You probably heard about the latest UN report that we're going to exceed 1.5°C warming, which was the threshold we were NOT supposed to exceed. The report also empasises that now, more than ever - each action has a big role to play and ever",
       "title": "Music and Sustainability: Moving the Needle on Ethical Music Listening",
       "start": "2026-09-15T18:45:00+00:00",
       "end": "2026-09-15T21:30:00+00:00",
@@ -27,126 +26,204 @@
       "ours": false,
       "relevant_note": "",
       "all_day": false
+    },
+    {
+      "description": "",
+      "title": "Effective altruism coworking session",
+      "start": "2026-09-16T08:00:00+00:00",
+      "end": "2026-09-16T11:00:00+00:00",
+      "venue": "Sopa Barcelona, Carrer de Roc Boronat, 114, Sant Martí, 08018 Barcelona, Spain",
+      "url": "https://luma.com/oa6tooc7",
+      "source": "EA Barcelona (Luma)",
+      "organizer": "",
+      "ours": true,
+      "relevant_note": "",
+      "all_day": false
     }
   ],
+  "coming_up": [],
   "opportunities": [
+    {
+      "title": "How a cold email got the Finnish government to respond on superintelligence regulation",
+      "url": "https://forum.effectivealtruism.org/posts/a8LA7Bd9cg6EwFHxr/how-a-cold-email-got-the-finnish-government-to-respond-on",
+      "posted": "2026-09-12T14:01:50.075000+00:00",
+      "score": 22,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Organizing a Fermi modeling 'hack' on the cost of cultured meat; hiring a co-coordinator",
+      "url": "https://forum.effectivealtruism.org/posts/nka5xRBZoHoFvc93Y/organizing-a-fermi-modeling-hack-on-the-cost-of-cultured-1",
+      "posted": "2026-09-11T18:01:44.341000+00:00",
+      "score": 15,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "The Golden Age of Impact",
+      "url": "https://forum.effectivealtruism.org/posts/ffD9ai5gzPWogH9yM/the-golden-age-of-impact",
+      "posted": "2026-09-11T15:46:22.955000+00:00",
+      "score": 12,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Project Tailwind: we want to fund you to launch an ambitious AI safety initiative",
+      "url": "https://forum.effectivealtruism.org/posts/4psffeH8t8zjkqXrc/project-tailwind-we-want-to-fund-you-to-launch-an-ambitious",
+      "posted": "2026-09-11T15:13:15.744000+00:00",
+      "score": 26,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Three days left to apply to AIM's animal-only incubation round",
+      "url": "https://forum.effectivealtruism.org/posts/4KDG374cHie2AEGMH/three-days-left-to-apply-to-aim-s-animal-only-incubation",
+      "posted": "2026-09-11T09:15:21.304000+00:00",
+      "score": 35,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Applications are open for the Effective Thesis Fall Accelerator (25 Sep Deadline)",
+      "url": "https://forum.effectivealtruism.org/posts/vgj4fhgJJtMTgg6DK/applications-are-open-for-the-effective-thesis-fall",
+      "posted": "2026-09-10T15:43:17.841000+00:00",
+      "score": 5,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "EA Organisation Updates thread: September 2026",
+      "url": "https://forum.effectivealtruism.org/posts/veioRatu8p5XovN5W/ea-organisation-updates-thread-september-2026",
+      "posted": "2026-09-09T14:59:51.350000+00:00",
+      "score": 7,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Help us find and support the world's most talented, altruistic teenagers - and help them find you!",
+      "url": "https://forum.effectivealtruism.org/posts/TWy8EYE9ncYfMaDGz/help-us-find-and-support-the-world-s-most-talented",
+      "posted": "2026-09-09T02:00:11.690000+00:00",
+      "score": 18,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "\nGiveWell Hiring: Senior Communications Officers",
+      "url": "https://forum.effectivealtruism.org/posts/Pc2FoPpywn7Ezx6Kn/givewell-hiring-senior-communications-officers",
+      "posted": "2026-09-08T21:40:56.776000+00:00",
+      "score": 8,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "College EA Meetups Everywhere: Times & Places",
+      "url": "https://forum.effectivealtruism.org/posts/oKGJfBLa3hpnycYLq/college-ea-meetups-everywhere-times-and-places",
+      "posted": "2026-09-07T17:19:47.411000+00:00",
+      "score": 19,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Boost your Mental Resilience to Grow your Impact – Attend Rethink Wellbeing’s EV Grants-Funded CBT Lab ",
+      "url": "https://forum.effectivealtruism.org/posts/PFsZ4yZnEPJfcWCNk/boost-your-mental-resilience-to-grow-your-impact-attend",
+      "posted": "2026-09-07T15:20:54.903000+00:00",
+      "score": 12,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Where do you point newcomers who want to get involved in AI safety?",
+      "url": "https://forum.effectivealtruism.org/posts/bcYwvQF7nBxHtsv93/where-do-you-point-newcomers-who-want-to-get-involved-in-ai",
+      "posted": "2026-09-07T13:37:40.183000+00:00",
+      "score": 9,
+      "source": "EA Forum — Opportunities to take action"
+    },
     {
       "title": "Announcing Humans in Control: cross-partisan grassroots organizing for AI safeguards ahead of 2028",
       "url": "https://forum.effectivealtruism.org/posts/bhN2rJkveCZvfmsqh/announcing-humans-in-control-cross-partisan-grassroots-1",
       "posted": "2026-09-04T21:39:21.174000+00:00",
-      "score": 21,
+      "score": 26,
       "source": "EA Forum — Opportunities to take action"
     },
     {
       "title": "Should You Start a Nonprofit or Join One?",
       "url": "https://forum.effectivealtruism.org/posts/7JgreiGT6rvXakjqx/should-you-start-a-nonprofit-or-join-one-1",
       "posted": "2026-09-04T16:24:17.834000+00:00",
-      "score": 25,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Fish Welfare Initiative is Considering International Expansion (and an invitation to apply!)",
-      "url": "https://forum.effectivealtruism.org/posts/QzTAyughredoJMP7Y/fish-welfare-initiative-is-considering-international",
-      "posted": "2026-09-04T05:34:50.646000+00:00",
-      "score": 21,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Kairos has raised $50M to build talent infrastructure for AI safety (and we're hiring!)",
-      "url": "https://forum.effectivealtruism.org/posts/6ucKLAbrnbESYguyL/kairos-has-raised-usd50m-to-build-talent-infrastructure-for",
-      "posted": "2026-09-02T18:30:51.281000+00:00",
-      "score": 84,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Project COA is hiring a Founding Partnerships Lead",
-      "url": "https://forum.effectivealtruism.org/posts/Kku8nm4jvmD6o5RN5/project-coa-is-hiring-a-founding-partnerships-lead",
-      "posted": "2026-09-01T15:01:01.225000+00:00",
-      "score": 15,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "AI Philosophy Competition: $11,000 in prizes.",
-      "url": "https://forum.effectivealtruism.org/posts/BKroooXStChonhtRe/ai-philosophy-competition-usd11-000-in-prizes",
-      "posted": "2026-09-01T06:28:21.562000+00:00",
-      "score": 13,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Job: Operations and/or Community Manager",
-      "url": "https://forum.effectivealtruism.org/posts/bhjNhXMi2vvDmCkEt/job-operations-and-or-community-manager",
-      "posted": "2026-08-29T16:01:47.657000+00:00",
-      "score": 20,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Getting into the European Commission through the Blue Book Traineeship",
-      "url": "https://forum.effectivealtruism.org/posts/bvEdD5Fojymf4AHy6/getting-into-the-european-commission-through-the-blue-book",
-      "posted": "2026-08-28T13:55:28.996000+00:00",
-      "score": 13,
+      "score": 31,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
+    "Remote — Europe": [
+      {
+        "title": "Founding Operations Manager",
+        "org": "Parallax",
+        "url": "https://parallx.ai/careers/founding-operations-manager.html?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-08T00:01:00+00:00",
+        "closes": "2026-09-21T00:00:00+00:00",
+        "tier": "Remote — Europe",
+        "location": "Remote, Europe, London, UK",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Founding Member, Technical Staff",
+        "org": "Parallax",
+        "url": "https://parallx.ai/careers/founding-member-of-technical-staff.html?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-08T00:01:00+00:00",
+        "closes": "2026-09-27T00:00:00+00:00",
+        "tier": "Remote — Europe",
+        "location": "Remote, Europe, London, UK",
+        "source": "80,000 Hours job board"
+      }
+    ],
     "Remote — Global": [
       {
-        "title": "Strategy and Impact Analyst, Monitoring, Evaluation, and Learning",
-        "org": "Lafiya",
-        "url": "https://docs.google.com/document/d/1az5heB3HsTMH0dmlQ5k0ODNniq8EHcZnPd9pQhMVZ6k/edit?tab=t.a60jg49shuyd&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-02T00:00:00+00:00",
-        "closes": "2026-09-20T00:00:00+00:00",
+        "title": "Futurekind AI Fellowship (Summer 2026)",
+        "org": "Electric Sheep",
+        "url": "https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-11T00:00:00+00:00",
+        "closes": "2026-09-15T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Special Projects Manager, Communications Team",
-        "org": "Future of Life Institute",
-        "url": "https://jobs.lever.co/futureof-life/25d767f7-5de2-4409-ba37-b8c492598f22?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-04T00:04:12+00:00",
-        "closes": "2026-10-02T00:00:00+00:00",
+        "title": "Safety Research Grants",
+        "org": "Thinking Machines",
+        "url": "https://thinkingmachines.ai/news/safety-research-grants/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-11T00:01:00+00:00",
+        "closes": "2026-09-25T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Data and Research Analyst, Monitoring, Evaluation, and Learning",
-        "org": "Lafiya",
-        "url": "https://docs.google.com/document/d/1F6otLzsmxfyzBNeRPovVlAMYgY5wKijTePQbHtMs3Ww/edit?tab=t.a60jg49shuyd&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-02T00:00:00+00:00",
-        "closes": "2026-10-11T00:00:00+00:00",
+        "title": "Request for Candidates, Broad-Spectrum Preventatives",
+        "org": "Intercept",
+        "url": "https://www.interceptfund.com/apply/broad-spectrum-preventatives?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-11T00:03:00+00:00",
+        "closes": "2026-12-31T00:00:00+00:00",
         "tier": "Remote — Global",
-        "location": "Remote, Nigeria, Remote, Global",
+        "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Technical AI Safety Upskilling Resources",
-        "org": "80,000 Hours",
-        "url": "https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-02T00:00:00+00:00",
+        "title": "Research Lead, Pre-Training Safety",
+        "org": "FAR AI",
+        "url": "https://jobs.ashbyhq.com/far.ai/03e909f9-fba9-42d9-9ba1-208af8cc0522?embed=js&utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-10T00:05:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "San Francisco Bay Area, Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Project Tailwind, Call for Ambitious AI Safety Initiatives",
+        "org": "Coefficient Giving",
+        "url": "https://coefficientgiving.org/tailwind/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-10T00:06:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Course, The Future of AI",
-        "org": "BlueDot Impact",
-        "url": "https://bluedot.org/courses/future-of-ai?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-02T00:00:00+00:00",
+        "title": "Founding Research Scientist",
+        "org": "Sophron Research",
+        "url": "https://sophronresearch.org/careers/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-11T00:01:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Head of Frontier AI Risk",
-        "org": "AI Safety Asia",
-        "url": "https://docs.google.com/document/d/1DJWX1wpRqu4CS72o1Jt_XiS9B6O06lkdmsbrofJ4zLk/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board#heading=h.zbijbfxxdmk0",
-        "posted": "2026-09-02T00:03:00+00:00",
-        "closes": null,
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "New York, NY, Remote, Global",
         "source": "80,000 Hours job board"
       }
     ]
