@@ -1,65 +1,107 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Sep 14 12:30 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Sep 21 12:35 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Music and Sustainability: Moving the Needle on Ethical Music Listening* _(Organised by ESALogika)_
-> 🗓️ *Tomorrow* (Tuesday, Sep 15 | 20:45 – 23:30)
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316389933/
+🗓️ *Social de Altruismo Eficaz: Septiembre* _(Organised by EA Madrid)_
+> 🗓️ Thursday, Sep 24 | 23:00
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/316604208/
+
+🗓️ *Workshop: Effective communication about Climate Change* _(Organised by ESALogika)_
+> 🗓️ Saturday, Sep 26 | 19:00 – 21:00
+> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316594742/
+
+🗓️ *COMING UP SOON*
 
 🗓️ *Club de lectura: posts de LessWrong* _(Organised by EA Madrid)_
-> 🗓️ *Tomorrow* (Tuesday, Sep 15 | 23:30)
-> 👉 https://www.meetup.com/effective-altruism-madrid/events/316397378/
+> 🗓️ Tuesday, Sep 29 | 23:30
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/316573146/
 
 🗓️ *Effective altruism coworking session*
-> 🗓️ Wednesday, Sep 16 | 10:00 – 13:00
+> 🗓️ Wednesday, Sep 30 | 10:00 – 13:00
+> 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
+> 👉 https://luma.com/npz4xs0b
+
+🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
+> 🗓️ Tuesday, Oct 13 | 23:30
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/316572479/
+
+🗓️ *Effective altruism coworking session*
+> 🗓️ Wednesday, Oct 14 | 10:00 – 13:00
 > 📍 Sopa Barcelona (Carrer de Roc Boronat)
-> 👉 https://luma.com/oa6tooc7
+> 👉 https://luma.com/967bhx8x
+
+🗓️ *Permaculture Design for the Climate Emergency* _(Organised by ESALogika)_
+> 🗓️ Wednesday, Oct 14 | 20:00 – 23:00
+> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316647408/
 
 🚀 *OPPORTUNITIES & JOBS*
 
 📍 *Remote — Europe*
 
-💼 *Founding Operations Manager* — Parallax
-> 🌍 Remote, Europe, London, UK
-> ⏰ Deadline: Sep 21
-> 👉 https://parallx.ai/careers/founding-operations-manager.html?utm_source=80000hours&utm_medium=job-board
-
-💼 *Founding Member, Technical Staff* — Parallax
-> 🌍 Remote, Europe, London, UK
-> ⏰ Deadline: Sep 27
-> 👉 https://parallx.ai/careers/founding-member-of-technical-staff.html?utm_source=80000hours&utm_medium=job-board
+💼 *Research Scientist, Manipulation Evaluations* — Apart Research
+> 🌍 Remote, Europe
+> 👉 https://apartresearch.notion.site/research-scientist-manipulation-evals?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
-💼 *Futurekind AI Fellowship (Summer 2026)* — Electric Sheep
+💼 *Architect / Senior Architect* — Coefficient Giving
 > 🌍 Remote, Global
-> ⏰ Deadline: Sep 15
-> 👉 https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 05
+> 👉 https://jobs.ashbyhq.com/coefficientgiving/85d04305-b0f2-42de-a18e-23f7a8707d41?utm_source=80000hours&utm_medium=job-board
 
-💼 *Safety Research Grants* — Thinking Machines
+💼 *Senior Salesforce Administrator and Business Analyst* — Coefficient Giving
 > 🌍 Remote, Global
-> ⏰ Deadline: Sep 25
-> 👉 https://thinkingmachines.ai/news/safety-research-grants/?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 05
+> 👉 https://jobs.ashbyhq.com/coefficientgiving/909c0e6c-4c16-4ea1-9047-730021d7c234?utm_source=80000hours&utm_medium=job-board
 
-💼 *Request for Candidates, Broad-Spectrum Preventatives* — Intercept
+💼 *Programme Manager, International Programme, AI Evaluation, Capabilities and Safety* — Berkeley Existential Risk Initiative
 > 🌍 Remote, Global
-> ⏰ Deadline: Dec 31
-> 👉 https://www.interceptfund.com/apply/broad-spectrum-preventatives?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 09
+> 👉 https://ai-evaluation.org/jobs-pm?utm_source=80000hours&utm_medium=job-board
 
-💼 *Research Lead, Pre-Training Safety* — FAR AI
-> 🌍 San Francisco Bay Area, Remote, Global
-> 👉 https://jobs.ashbyhq.com/far.ai/03e909f9-fba9-42d9-9ba1-208af8cc0522?embed=js&utm_source=80000hours&utm_medium=job-board
-
-💼 *Project Tailwind, Call for Ambitious AI Safety Initiatives* — Coefficient Giving
+💼 *Grant, Transformative AI Fund* — Centre for Effective Altruism
 > 🌍 Remote, Global
-> 👉 https://coefficientgiving.org/tailwind/?utm_source=80000hours&utm_medium=job-board
+> 👉 https://funds.effectivealtruism.org/funds/transformative-ai?utm_source=80000hours&utm_medium=job-board
 
-💼 *Founding Research Scientist* — Sophron Research
-> 🌍 New York, NY, Remote, Global
-> 👉 https://sophronresearch.org/careers/?utm_source=80000hours&utm_medium=job-board
+💼 *Request for Proposals, AI Safety Grant* — Foresight Institute
+> 🌍 Remote, Global
+> 👉 https://foresight.org/request-for-proposals/?utm_source=80000hours&utm_medium=job-board
+
+💼 *Clinical AI Researcher* — Rethink Wellbeing
+> 🌍 Remote, Global
+> 👉 https://airtable.com/appxxy17wzToAY5XP/pag6pdqK3AEKKS3f2/form?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
+
+🚀 *The J-Space Debate, Agent Swarms, and Pacing Frontier AI — Digital Minds Newsletter #4*
+> 👉 https://forum.effectivealtruism.org/posts/LHB2AAsaQoBu7aBp9/the-j-space-debate-agent-swarms-and-pacing-frontier-ai
+> _Posted Sep 18 on the EA Forum_
+
+🚀 *Apply by Sept 18! for Reconstellation – the 90-day camp for your projects*
+> 👉 https://forum.effectivealtruism.org/posts/sXhAcaf7iqsvw3kdm/apply-by-sept-18-for-reconstellation-the-90-day-camp-for
+> _Posted Sep 18 on the EA Forum_
+
+🚀 *
+Magnify Mentoring Update: Mentee applications are now open!*
+> 👉 https://forum.effectivealtruism.org/posts/fQePvbYorHYcEqDR7/magnify-mentoring-update-mentee-applications-are-now-open
+> _Posted Sep 17 on the EA Forum_
+
+🚀 *Call for Mentors and Participants: Global Health Project Sprint *
+> 👉 https://forum.effectivealtruism.org/posts/HruP7XjA8ri2vYemS/call-for-mentors-and-participants-global-health-project
+> _Posted Sep 16 on the EA Forum_
+
+🚀 *Faunalytics Is Hiring Its Next Executive Director *
+> 👉 https://forum.effectivealtruism.org/posts/Y8E2yZWSEGaivzcBY/faunalytics-is-hiring-its-next-executive-director
+> _Posted Sep 15 on the EA Forum_
+
+🚀 *How we might actually pace the frontier: A proposal for AI companies to do public pacing exercises.*
+> 👉 https://forum.effectivealtruism.org/posts/F8Qw5d7gz29NgGtdx/how-we-might-actually-pace-the-frontier-a-proposal-for-ai
+> _Posted Sep 15 on the EA Forum_
+
+🚀 *Introducing People for a Pause + DC Protest this Saturday*
+> 👉 https://forum.effectivealtruism.org/posts/jAiL7Bg3NMNdwuitf/introducing-people-for-a-pause-dc-protest-this-saturday
+> _Posted Sep 14 on the EA Forum_
 
 🚀 *How a cold email got the Finnish government to respond on superintelligence regulation*
 > 👉 https://forum.effectivealtruism.org/posts/a8LA7Bd9cg6EwFHxr/how-a-cold-email-got-the-finnish-government-to-respond-on
@@ -72,48 +114,3 @@ _Draft generated Monday, Sep 14 12:30 (Europe/Madrid)_. _Review, edit, personali
 🚀 *The Golden Age of Impact*
 > 👉 https://forum.effectivealtruism.org/posts/ffD9ai5gzPWogH9yM/the-golden-age-of-impact
 > _Posted Sep 11 on the EA Forum_
-
-🚀 *Project Tailwind: we want to fund you to launch an ambitious AI safety initiative*
-> 👉 https://forum.effectivealtruism.org/posts/4psffeH8t8zjkqXrc/project-tailwind-we-want-to-fund-you-to-launch-an-ambitious
-> _Posted Sep 11 on the EA Forum_
-
-🚀 *Three days left to apply to AIM's animal-only incubation round*
-> 👉 https://forum.effectivealtruism.org/posts/4KDG374cHie2AEGMH/three-days-left-to-apply-to-aim-s-animal-only-incubation
-> _Posted Sep 11 on the EA Forum_
-
-🚀 *Applications are open for the Effective Thesis Fall Accelerator (25 Sep Deadline)*
-> 👉 https://forum.effectivealtruism.org/posts/vgj4fhgJJtMTgg6DK/applications-are-open-for-the-effective-thesis-fall
-> _Posted Sep 10 on the EA Forum_
-
-🚀 *EA Organisation Updates thread: September 2026*
-> 👉 https://forum.effectivealtruism.org/posts/veioRatu8p5XovN5W/ea-organisation-updates-thread-september-2026
-> _Posted Sep 09 on the EA Forum_
-
-🚀 *Help us find and support the world's most talented, altruistic teenagers - and help them find you!*
-> 👉 https://forum.effectivealtruism.org/posts/TWy8EYE9ncYfMaDGz/help-us-find-and-support-the-world-s-most-talented
-> _Posted Sep 09 on the EA Forum_
-
-🚀 *
-GiveWell Hiring: Senior Communications Officers*
-> 👉 https://forum.effectivealtruism.org/posts/Pc2FoPpywn7Ezx6Kn/givewell-hiring-senior-communications-officers
-> _Posted Sep 08 on the EA Forum_
-
-🚀 *College EA Meetups Everywhere: Times & Places*
-> 👉 https://forum.effectivealtruism.org/posts/oKGJfBLa3hpnycYLq/college-ea-meetups-everywhere-times-and-places
-> _Posted Sep 07 on the EA Forum_
-
-🚀 *Boost your Mental Resilience to Grow your Impact – Attend Rethink Wellbeing’s EV Grants-Funded CBT Lab *
-> 👉 https://forum.effectivealtruism.org/posts/PFsZ4yZnEPJfcWCNk/boost-your-mental-resilience-to-grow-your-impact-attend
-> _Posted Sep 07 on the EA Forum_
-
-🚀 *Where do you point newcomers who want to get involved in AI safety?*
-> 👉 https://forum.effectivealtruism.org/posts/bcYwvQF7nBxHtsv93/where-do-you-point-newcomers-who-want-to-get-involved-in-ai
-> _Posted Sep 07 on the EA Forum_
-
-🚀 *Announcing Humans in Control: cross-partisan grassroots organizing for AI safeguards ahead of 2028*
-> 👉 https://forum.effectivealtruism.org/posts/bhN2rJkveCZvfmsqh/announcing-humans-in-control-cross-partisan-grassroots-1
-> _Posted Sep 04 on the EA Forum_
-
-🚀 *Should You Start a Nonprofit or Join One?*
-> 👉 https://forum.effectivealtruism.org/posts/7JgreiGT6rvXakjqx/should-you-start-a-nonprofit-or-join-one-1
-> _Posted Sep 04 on the EA Forum_
