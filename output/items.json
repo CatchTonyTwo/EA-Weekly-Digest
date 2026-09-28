@@ -1,34 +1,6 @@
 {
-  "generated": "2026-09-21T10:35:10.318017+00:00",
+  "generated": "2026-09-28T11:36:27.877435+00:00",
   "this_week": [
-    {
-      "description": "Altruismo Eficaz y Racionalidad Madrid ¡Hola a todos! Volvemos con nuestra reunión mensual de EA Madrid! Para los que todavía no nos conocéis, nos reunimos para hablar de altruismo eficaz: un movimiento dedicado a explorar cómo podemos mejorar el mundo y ayudar a la gente de una manera más efectiva. Solemos hablar de temas como intervenciones para mitigar la pobreza extrema, inteligencia artificial, bienestar animal, racionalidad o filosofía moral. La idea es juntarnos en **un ambiente relajado ",
-      "title": "Social de Altruismo Eficaz: Septiembre",
-      "start": "2026-09-24T21:00:00+00:00",
-      "end": "2026-09-24T23:00:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/effective-altruism-madrid/events/316604208/",
-      "source": "EA Madrid (Meetup)",
-      "organizer": "EA Madrid",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
-      "description": "Environmental Social Association of Barcelona ESAlogika \\*Note: if this is your first member's event with us, confirmation is **required** by clicking [HERE](https://forms.gle/9AKw678SNqQpQpbJ8) (Google form to get your name and contact). This month's member's meet topic is super timely after the latest UN report, as it's going to help us to be more skillful in being an effective daily ambassador for our beloved Planet 🌎 and a bridge among differences. During this workshop you will: * Learn how ",
-      "title": "Workshop: Effective communication about Climate Change",
-      "start": "2026-09-26T17:00:00+00:00",
-      "end": "2026-09-26T19:00:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/barcelona-community-meetup-group/events/316594742/",
-      "source": "ESALogika (Meetup)",
-      "organizer": "ESALogika",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    }
-  ],
-  "coming_up": [
     {
       "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos periódicamente textos (artículos, capítulos de libros) relacionados con la racionalidad y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. Esta semana comentaremos **estos artículos:** * **[Bayes' ",
       "title": "Club de lectura: posts de LessWrong",
@@ -54,7 +26,9 @@
       "ours": true,
       "relevant_note": "",
       "all_day": false
-    },
+    }
+  ],
+  "coming_up": [
     {
       "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos textos (artículos, capítulos de libros) relacionados con la racionalidad periódicamente y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. **Esta semana estrenamos libro: A Dialogue On Consciousnes",
       "title": "Club de lectura: A Dialogue on Consciousness",
@@ -82,7 +56,20 @@
       "all_day": false
     },
     {
-      "description": "Environmental Social Association of Barcelona ESAlogika ​How does Permaculture engage and respond to the Climate Emergency? IMPORTANT: this page is for visibility only, the actual event registration needs to be done through this link: [LUMA](https://luma.com/wtvfz6kt) Join Alfred Decker (live) and Rosemary Morrow (recorded) on an interactive session at the Permaculture Barcelona Hub. In this hands-on workshop, participants will learn **how permaculture concepts apply to a real life** case and **",
+      "description": "",
+      "title": "All Tech Is Human community in BCN: Permacomputing",
+      "start": "2026-10-14T16:30:00+00:00",
+      "end": "2026-10-14T18:30:00+00:00",
+      "venue": "",
+      "url": "https://luma.com/kj0916an",
+      "source": "All Tech is Human BCN (Luma)",
+      "organizer": "All Tech is Human BCN",
+      "ours": false,
+      "relevant_note": "Not organised by us but relevant!",
+      "all_day": false
+    },
+    {
+      "description": "Environmental Social Association of Barcelona ESAlogika ​How does Permaculture engage and respond to the Climate Emergency? This workshop is a part of the Barcelona Climate Week series. IMPORTANT: this page is for visibility only, the actual event registration needs to be done through this link: [LUMA](https://luma.com/wtvfz6kt) Join Alfred Decker (live) and Rosemary Morrow (recorded) on an interactive session at the Permaculture Barcelona Hub. In this hands-on workshop, participants will learn ",
       "title": "Permaculture Design for the Climate Emergency",
       "start": "2026-10-14T18:00:00+00:00",
       "end": "2026-10-14T21:00:00+00:00",
@@ -97,10 +84,45 @@
   ],
   "opportunities": [
     {
+      "title": "Middle Powers and Transformative AI: A request for proposals",
+      "url": "https://forum.effectivealtruism.org/posts/eBA8r5jwANkKjwHFy/middle-powers-and-transformative-ai-a-request-for-proposals",
+      "posted": "2026-09-23T19:55:36.555000+00:00",
+      "score": 30,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Two New Books - Looking For Early Feedback\n",
+      "url": "https://forum.effectivealtruism.org/posts/JBQCe6v8ncuRZGwqa/two-new-books-looking-for-early-feedback",
+      "posted": "2026-09-22T11:58:21.382000+00:00",
+      "score": 5,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Microsoft AI Has Opened A Public Consultation On Its AI Code of Conduct",
+      "url": "https://forum.effectivealtruism.org/posts/Cj82hA2NCgFNoFham/microsoft-ai-has-opened-a-public-consultation-on-its-ai-code",
+      "posted": "2026-09-22T08:56:09.850000+00:00",
+      "score": 6,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Salesforce roles at Coefficient Giving",
+      "url": "https://forum.effectivealtruism.org/posts/K5GBHnnfiRoETtT6B/salesforce-roles-at-coefficient-giving",
+      "posted": "2026-09-21T19:16:49.945000+00:00",
+      "score": 8,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Help build a high impact non profit",
+      "url": "https://forum.effectivealtruism.org/posts/dEWMddPSk6HAjwA4Q/help-build-a-high-impact-non-profit",
+      "posted": "2026-09-21T16:42:18.525000+00:00",
+      "score": 5,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
       "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI — Digital Minds Newsletter #4",
       "url": "https://forum.effectivealtruism.org/posts/LHB2AAsaQoBu7aBp9/the-j-space-debate-agent-swarms-and-pacing-frontier-ai",
       "posted": "2026-09-18T18:49:11.334000+00:00",
-      "score": 15,
+      "score": 19,
       "source": "EA Forum — Opportunities to take action"
     },
     {
@@ -109,133 +131,65 @@
       "posted": "2026-09-18T15:53:22.036000+00:00",
       "score": 13,
       "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "\nMagnify Mentoring Update: Mentee applications are now open!",
-      "url": "https://forum.effectivealtruism.org/posts/fQePvbYorHYcEqDR7/magnify-mentoring-update-mentee-applications-are-now-open",
-      "posted": "2026-09-17T12:17:44.139000+00:00",
-      "score": 10,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Call for Mentors and Participants: Global Health Project Sprint ",
-      "url": "https://forum.effectivealtruism.org/posts/HruP7XjA8ri2vYemS/call-for-mentors-and-participants-global-health-project",
-      "posted": "2026-09-16T16:55:51.803000+00:00",
-      "score": 12,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Faunalytics Is Hiring Its Next Executive Director ",
-      "url": "https://forum.effectivealtruism.org/posts/Y8E2yZWSEGaivzcBY/faunalytics-is-hiring-its-next-executive-director",
-      "posted": "2026-09-15T16:27:51.948000+00:00",
-      "score": 6,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "How we might actually pace the frontier: A proposal for AI companies to do public pacing exercises.",
-      "url": "https://forum.effectivealtruism.org/posts/F8Qw5d7gz29NgGtdx/how-we-might-actually-pace-the-frontier-a-proposal-for-ai",
-      "posted": "2026-09-15T05:41:24.962000+00:00",
-      "score": 35,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Introducing People for a Pause + DC Protest this Saturday",
-      "url": "https://forum.effectivealtruism.org/posts/jAiL7Bg3NMNdwuitf/introducing-people-for-a-pause-dc-protest-this-saturday",
-      "posted": "2026-09-14T03:05:17.342000+00:00",
-      "score": 15,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "How a cold email got the Finnish government to respond on superintelligence regulation",
-      "url": "https://forum.effectivealtruism.org/posts/a8LA7Bd9cg6EwFHxr/how-a-cold-email-got-the-finnish-government-to-respond-on",
-      "posted": "2026-09-12T14:01:50.075000+00:00",
-      "score": 27,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Organizing a Fermi modeling 'hack' on the cost of cultured meat; hiring a co-coordinator",
-      "url": "https://forum.effectivealtruism.org/posts/nka5xRBZoHoFvc93Y/organizing-a-fermi-modeling-hack-on-the-cost-of-cultured-1",
-      "posted": "2026-09-11T18:01:44.341000+00:00",
-      "score": 16,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "The Golden Age of Impact",
-      "url": "https://forum.effectivealtruism.org/posts/ffD9ai5gzPWogH9yM/the-golden-age-of-impact",
-      "posted": "2026-09-11T15:46:22.955000+00:00",
-      "score": 12,
-      "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
-    "Remote — Europe": [
-      {
-        "title": "Research Scientist, Manipulation Evaluations",
-        "org": "Apart Research",
-        "url": "https://apartresearch.notion.site/research-scientist-manipulation-evals?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-16T00:00:00+00:00",
-        "closes": null,
-        "tier": "Remote — Europe",
-        "location": "Remote, Europe",
-        "source": "80,000 Hours job board"
-      }
-    ],
     "Remote — Global": [
       {
-        "title": "Architect / Senior Architect",
-        "org": "Coefficient Giving",
-        "url": "https://jobs.ashbyhq.com/coefficientgiving/85d04305-b0f2-42de-a18e-23f7a8707d41?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-17T00:04:27+00:00",
-        "closes": "2026-10-05T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Senior Salesforce Administrator and Business Analyst",
-        "org": "Coefficient Giving",
-        "url": "https://jobs.ashbyhq.com/coefficientgiving/909c0e6c-4c16-4ea1-9047-730021d7c234?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-17T00:04:25+00:00",
-        "closes": "2026-10-05T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Programme Manager, International Programme, AI Evaluation, Capabilities and Safety",
-        "org": "Berkeley Existential Risk Initiative",
-        "url": "https://ai-evaluation.org/jobs-pm?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-18T00:03:00+00:00",
-        "closes": "2026-10-09T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Grant, Transformative AI Fund",
+        "title": "4-Day Career Bootcamp (Autumn 2026)",
         "org": "Centre for Effective Altruism",
-        "url": "https://funds.effectivealtruism.org/funds/transformative-ai?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-17T00:00:00+00:00",
+        "url": "https://www.effectivealtruism.org/courses/bootcamp?utm_source=80k_collections_board",
+        "posted": "2026-09-25T00:00:00+00:00",
+        "closes": "2026-10-04T00:00:00+00:00",
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Recruiter",
+        "org": "Kairos",
+        "url": "https://kairos-project.org/careers/recruiter?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-28T00:03:00+00:00",
+        "closes": "2026-10-16T00:00:00+00:00",
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Generalist, Talent Operations",
+        "org": "Kairos",
+        "url": "https://kairos-project.org/careers/generalist-talent-ops?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-28T00:03:00+00:00",
+        "closes": "2026-10-16T00:00:00+00:00",
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Community Ambassador",
+        "org": "One for the World",
+        "url": "https://1fortheworld.org/community-ambassadors?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-28T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Request for Proposals, AI Safety Grant",
-        "org": "Foresight Institute",
-        "url": "https://foresight.org/request-for-proposals/?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-17T00:00:00+00:00",
+        "title": "Engineering Roles",
+        "org": "Survival and Flourishing",
+        "url": "https://survivalandflourishing.com/careers/engineering-roles?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-28T00:03:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, San Francisco Bay Area",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Clinical AI Researcher",
-        "org": "Rethink Wellbeing",
-        "url": "https://airtable.com/appxxy17wzToAY5XP/pag6pdqK3AEKKS3f2/form?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-17T00:00:00+00:00",
+        "title": "Product Manager, Website",
+        "org": "Epoch AI",
+        "url": "https://jobs.lever.co/epoch-ai/9abe93df-26a3-4bd4-9253-d2ef9b011d51?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-09-28T00:04:44+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
