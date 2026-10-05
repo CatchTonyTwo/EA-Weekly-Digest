@@ -1,16 +1,12 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Sep 28 13:36 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Oct 05 14:10 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Club de lectura: posts de LessWrong* _(Organised by EA Madrid)_
-> 🗓️ *Tomorrow* (Tuesday, Sep 29 | 23:30)
-> 👉 https://www.meetup.com/effective-altruism-madrid/events/316573146/
-
-🗓️ *Effective altruism coworking session*
-> 🗓️ Wednesday, Sep 30 | 10:00 – 13:00
+🗓️ *Malaria, 1955: The decision that left Africa behind*
+> 🗓️ Monday, Oct 5 | 19:00 – 20:30
 > 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
-> 👉 https://luma.com/npz4xs0b
+> 👉 https://luma.com/4e6epqde
 
 🗓️ *COMING UP SOON*
 
@@ -35,60 +31,50 @@ _Draft generated Monday, Sep 28 13:36 (Europe/Madrid)_. _Review, edit, personali
 
 📍 *Remote — Global*
 
-💼 *4-Day Career Bootcamp (Autumn 2026)* — Centre for Effective Altruism
+💼 *Futurekind AI Fellowship (Summer 2026)* — Electric Sheep
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 04
-> 👉 https://www.effectivealtruism.org/courses/bootcamp?utm_source=80k_collections_board
+> ⏰ Deadline: Oct 15
+> 👉 https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board
 
-💼 *Recruiter* — Kairos
+💼 *Senior Investigator* — The Midas Project
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 16
-> 👉 https://kairos-project.org/careers/recruiter?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 23
+> 👉 https://www.themidasproject.com/careers/senior-investigator?utm_source=80000hours&utm_medium=job-board
 
-💼 *Generalist, Talent Operations* — Kairos
+💼 *Futurekind Fellowship (2026-2027)* — Electric Sheep
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 16
-> 👉 https://kairos-project.org/careers/generalist-talent-ops?utm_source=80000hours&utm_medium=job-board
+> 👉 https://airtable.com/appwYVZkOaw0mf7xN/pag9fDF422FQbx53K/form?utm_source=80000hours&utm_medium=job-board
 
-💼 *Community Ambassador* — One for the World
+💼 *Task Development Engineer* — Model Evaluation and Threat Research
 > 🌍 Remote, Global
-> 👉 https://1fortheworld.org/community-ambassadors?utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7?utm_source=80000hours&utm_medium=job-board
 
-💼 *Engineering Roles* — Survival and Flourishing
-> 🌍 Remote, Global, San Francisco Bay Area
-> 👉 https://survivalandflourishing.com/careers/engineering-roles?utm_source=80000hours&utm_medium=job-board
-
-💼 *Product Manager, Website* — Epoch AI
+💼 *Graphic Designer* — The Midas Project
 > 🌍 Remote, Global
-> 👉 https://jobs.lever.co/epoch-ai/9abe93df-26a3-4bd4-9253-d2ef9b011d51?utm_source=80000hours&utm_medium=job-board
+> 👉 https://www.themidasproject.com/careers/graphic-designer?utm_source=80000hours&utm_medium=job-board
+
+💼 *Course, Introduction to AI Safety* — Center for AI Safety
+> 🌍 Remote, Global
+> 👉 https://www.coursera.org/learn/intro-to-ai-safety?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
 
-🚀 *Middle Powers and Transformative AI: A request for proposals*
-> 👉 https://forum.effectivealtruism.org/posts/eBA8r5jwANkKjwHFy/middle-powers-and-transformative-ai-a-request-for-proposals
-> _Posted Sep 23 on the EA Forum_
+🚀 *We’re funding events to help people make sense of AI risk*
+> 👉 https://forum.effectivealtruism.org/posts/gvB9jyi8Mk6aHuFPZ/we-re-funding-events-to-help-people-make-sense-of-ai-risk
+> _Posted Oct 03 on the EA Forum_
 
-🚀 *Two New Books - Looking For Early Feedback
-*
-> 👉 https://forum.effectivealtruism.org/posts/JBQCe6v8ncuRZGwqa/two-new-books-looking-for-early-feedback
-> _Posted Sep 22 on the EA Forum_
+🚀 *Anonymous 'suggestion boxes' with a committed reward pool and administrators: a proposal*
+> 👉 https://forum.effectivealtruism.org/posts/oxFncTiAaHBJCgBZP/anonymous-suggestion-boxes-with-a-committed-reward-pool-and
+> _Posted Oct 01 on the EA Forum_
 
-🚀 *Microsoft AI Has Opened A Public Consultation On Its AI Code of Conduct*
-> 👉 https://forum.effectivealtruism.org/posts/Cj82hA2NCgFNoFham/microsoft-ai-has-opened-a-public-consultation-on-its-ai-code
-> _Posted Sep 22 on the EA Forum_
+🚀 *FLF’s Epistemic Case Study Competition: Results*
+> 👉 https://forum.effectivealtruism.org/posts/eadfvJH8HBQLgdMKQ/flf-s-epistemic-case-study-competition-results
+> _Posted Oct 01 on the EA Forum_
 
-🚀 *Salesforce roles at Coefficient Giving*
-> 👉 https://forum.effectivealtruism.org/posts/K5GBHnnfiRoETtT6B/salesforce-roles-at-coefficient-giving
-> _Posted Sep 21 on the EA Forum_
+🚀 *Become a Grantmaker: The Fieldshaper Program*
+> 👉 https://forum.effectivealtruism.org/posts/ZHkMrsvfe2HMxoKG9/become-a-grantmaker-the-fieldshaper-program
+> _Posted Oct 01 on the EA Forum_
 
-🚀 *Help build a high impact non profit*
-> 👉 https://forum.effectivealtruism.org/posts/dEWMddPSk6HAjwA4Q/help-build-a-high-impact-non-profit
-> _Posted Sep 21 on the EA Forum_
-
-🚀 *The J-Space Debate, Agent Swarms, and Pacing Frontier AI — Digital Minds Newsletter #4*
-> 👉 https://forum.effectivealtruism.org/posts/LHB2AAsaQoBu7aBp9/the-j-space-debate-agent-swarms-and-pacing-frontier-ai
-> _Posted Sep 18 on the EA Forum_
-
-🚀 *Apply by Sept 18! for Reconstellation – the 90-day camp for your projects*
-> 👉 https://forum.effectivealtruism.org/posts/sXhAcaf7iqsvw3kdm/apply-by-sept-18-for-reconstellation-the-90-day-camp-for
-> _Posted Sep 18 on the EA Forum_
+🚀 *Fast grants for AI x animals*
+> 👉 https://forum.effectivealtruism.org/posts/4ATjKyJSKksWrKif8/fast-grants-for-ai-x-animals
+> _Posted Sep 29 on the EA Forum_

@@ -1,26 +1,13 @@
 {
-  "generated": "2026-09-28T11:36:27.877435+00:00",
+  "generated": "2026-10-05T12:10:52.714769+00:00",
   "this_week": [
     {
-      "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos periódicamente textos (artículos, capítulos de libros) relacionados con la racionalidad y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. Esta semana comentaremos **estos artículos:** * **[Bayes' ",
-      "title": "Club de lectura: posts de LessWrong",
-      "start": "2026-09-29T21:30:00+00:00",
-      "end": "2026-09-29T22:30:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/effective-altruism-madrid/events/316573146/",
-      "source": "EA Madrid (Meetup)",
-      "organizer": "EA Madrid",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
       "description": "",
-      "title": "Effective altruism coworking session",
-      "start": "2026-09-30T08:00:00+00:00",
-      "end": "2026-09-30T11:00:00+00:00",
+      "title": "Malaria, 1955: The decision that left Africa behind",
+      "start": "2026-10-05T17:00:00+00:00",
+      "end": "2026-10-05T18:30:00+00:00",
       "venue": "AKASHA Hub Barcelona, Carrer de la Verneda, 19, Nave 1, Sant Martí, 08018 Barcelona, Spain",
-      "url": "https://luma.com/npz4xs0b",
+      "url": "https://luma.com/4e6epqde",
       "source": "EA Barcelona (Luma)",
       "organizer": "",
       "ours": true,
@@ -84,112 +71,98 @@
   ],
   "opportunities": [
     {
-      "title": "Middle Powers and Transformative AI: A request for proposals",
-      "url": "https://forum.effectivealtruism.org/posts/eBA8r5jwANkKjwHFy/middle-powers-and-transformative-ai-a-request-for-proposals",
-      "posted": "2026-09-23T19:55:36.555000+00:00",
-      "score": 30,
+      "title": "We’re funding events to help people make sense of AI risk",
+      "url": "https://forum.effectivealtruism.org/posts/gvB9jyi8Mk6aHuFPZ/we-re-funding-events-to-help-people-make-sense-of-ai-risk",
+      "posted": "2026-10-03T00:00:07.736000+00:00",
+      "score": 22,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "Two New Books - Looking For Early Feedback\n",
-      "url": "https://forum.effectivealtruism.org/posts/JBQCe6v8ncuRZGwqa/two-new-books-looking-for-early-feedback",
-      "posted": "2026-09-22T11:58:21.382000+00:00",
-      "score": 5,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Microsoft AI Has Opened A Public Consultation On Its AI Code of Conduct",
-      "url": "https://forum.effectivealtruism.org/posts/Cj82hA2NCgFNoFham/microsoft-ai-has-opened-a-public-consultation-on-its-ai-code",
-      "posted": "2026-09-22T08:56:09.850000+00:00",
-      "score": 6,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Salesforce roles at Coefficient Giving",
-      "url": "https://forum.effectivealtruism.org/posts/K5GBHnnfiRoETtT6B/salesforce-roles-at-coefficient-giving",
-      "posted": "2026-09-21T19:16:49.945000+00:00",
+      "title": "Anonymous 'suggestion boxes' with a committed reward pool and administrators: a proposal",
+      "url": "https://forum.effectivealtruism.org/posts/oxFncTiAaHBJCgBZP/anonymous-suggestion-boxes-with-a-committed-reward-pool-and",
+      "posted": "2026-10-01T13:59:18.762000+00:00",
       "score": 8,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "Help build a high impact non profit",
-      "url": "https://forum.effectivealtruism.org/posts/dEWMddPSk6HAjwA4Q/help-build-a-high-impact-non-profit",
-      "posted": "2026-09-21T16:42:18.525000+00:00",
-      "score": 5,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "The J-Space Debate, Agent Swarms, and Pacing Frontier AI — Digital Minds Newsletter #4",
-      "url": "https://forum.effectivealtruism.org/posts/LHB2AAsaQoBu7aBp9/the-j-space-debate-agent-swarms-and-pacing-frontier-ai",
-      "posted": "2026-09-18T18:49:11.334000+00:00",
-      "score": 19,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Apply by Sept 18! for Reconstellation – the 90-day camp for your projects",
-      "url": "https://forum.effectivealtruism.org/posts/sXhAcaf7iqsvw3kdm/apply-by-sept-18-for-reconstellation-the-90-day-camp-for",
-      "posted": "2026-09-18T15:53:22.036000+00:00",
+      "title": "FLF’s Epistemic Case Study Competition: Results",
+      "url": "https://forum.effectivealtruism.org/posts/eadfvJH8HBQLgdMKQ/flf-s-epistemic-case-study-competition-results",
+      "posted": "2026-10-01T13:29:37.900000+00:00",
       "score": 13,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Become a Grantmaker: The Fieldshaper Program",
+      "url": "https://forum.effectivealtruism.org/posts/ZHkMrsvfe2HMxoKG9/become-a-grantmaker-the-fieldshaper-program",
+      "posted": "2026-10-01T10:52:33.118000+00:00",
+      "score": 42,
+      "source": "EA Forum — Opportunities to take action"
+    },
+    {
+      "title": "Fast grants for AI x animals",
+      "url": "https://forum.effectivealtruism.org/posts/4ATjKyJSKksWrKif8/fast-grants-for-ai-x-animals",
+      "posted": "2026-09-29T16:35:02.341000+00:00",
+      "score": 23,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
     "Remote — Global": [
       {
-        "title": "4-Day Career Bootcamp (Autumn 2026)",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.effectivealtruism.org/courses/bootcamp?utm_source=80k_collections_board",
-        "posted": "2026-09-25T00:00:00+00:00",
-        "closes": "2026-10-04T00:00:00+00:00",
+        "title": "Futurekind AI Fellowship (Summer 2026)",
+        "org": "Electric Sheep",
+        "url": "https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-05T00:00:00+00:00",
+        "closes": "2026-10-15T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Recruiter",
-        "org": "Kairos",
-        "url": "https://kairos-project.org/careers/recruiter?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-28T00:03:00+00:00",
-        "closes": "2026-10-16T00:00:00+00:00",
+        "title": "Senior Investigator",
+        "org": "The Midas Project",
+        "url": "https://www.themidasproject.com/careers/senior-investigator?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-05T00:03:00+00:00",
+        "closes": "2026-10-23T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Generalist, Talent Operations",
-        "org": "Kairos",
-        "url": "https://kairos-project.org/careers/generalist-talent-ops?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-28T00:03:00+00:00",
-        "closes": "2026-10-16T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Community Ambassador",
-        "org": "One for the World",
-        "url": "https://1fortheworld.org/community-ambassadors?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-28T00:00:00+00:00",
+        "title": "Futurekind Fellowship (2026-2027)",
+        "org": "Electric Sheep",
+        "url": "https://airtable.com/appwYVZkOaw0mf7xN/pag9fDF422FQbx53K/form?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-02T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Engineering Roles",
-        "org": "Survival and Flourishing",
-        "url": "https://survivalandflourishing.com/careers/engineering-roles?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-28T00:03:00+00:00",
+        "title": "Task Development Engineer",
+        "org": "Model Evaluation and Threat Research",
+        "url": "https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-05T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global, San Francisco Bay Area",
+        "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Product Manager, Website",
-        "org": "Epoch AI",
-        "url": "https://jobs.lever.co/epoch-ai/9abe93df-26a3-4bd4-9253-d2ef9b011d51?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-09-28T00:04:44+00:00",
+        "title": "Graphic Designer",
+        "org": "The Midas Project",
+        "url": "https://www.themidasproject.com/careers/graphic-designer?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-05T00:03:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Course, Introduction to AI Safety",
+        "org": "Center for AI Safety",
+        "url": "https://www.coursera.org/learn/intro-to-ai-safety?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-05T00:04:05+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
