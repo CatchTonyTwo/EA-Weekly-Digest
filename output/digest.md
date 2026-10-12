@@ -1,17 +1,10 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Oct 05 14:10 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Oct 12 14:57 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Malaria, 1955: The decision that left Africa behind*
-> 🗓️ Monday, Oct 5 | 19:00 – 20:30
-> 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
-> 👉 https://luma.com/4e6epqde
-
-🗓️ *COMING UP SOON*
-
 🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
-> 🗓️ Tuesday, Oct 13 | 23:30
+> 🗓️ *Tomorrow* (Tuesday, Oct 13 | 23:30)
 > 👉 https://www.meetup.com/effective-altruism-madrid/events/316572479/
 
 🗓️ *Effective altruism coworking session*
@@ -27,54 +20,79 @@ _Draft generated Monday, Oct 05 14:10 (Europe/Madrid)_. _Review, edit, personali
 > 🗓️ Wednesday, Oct 14 | 20:00 – 23:00
 > 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316647408/
 
+🗓️ *COMING UP SOON*
+
+🗓️ *Rubbish journey in Barcelona/ El recorrido de la basura* _(Organised by ESALogika)_
+> 🗓️ Tuesday, Oct 20 | 20:30 – 22:00
+> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316910095/
+
 🚀 *OPPORTUNITIES & JOBS*
 
 📍 *Remote — Global*
 
-💼 *Futurekind AI Fellowship (Summer 2026)* — Electric Sheep
+💼 *Full-Stack Developer* — Le Centre pour la Sécurité de l'IA
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 15
-> 👉 https://www.electricsheep.is/futurekind?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 16
+> 👉 https://cesia.org/en/careers/full-stack-developer-freelance/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Senior Investigator* — The Midas Project
+💼 *Program Launch Lead / Director* — High Impact Professionals
 > 🌍 Remote, Global
-> ⏰ Deadline: Oct 23
-> 👉 https://www.themidasproject.com/careers/senior-investigator?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 01
+> 👉 https://www.highimpactprofessionals.org/program-launch-lead-director?utm_source=80000hours&utm_medium=job-board
 
-💼 *Futurekind Fellowship (2026-2027)* — Electric Sheep
+💼 *Recruitment Manager* — High Impact Professionals
 > 🌍 Remote, Global
-> 👉 https://airtable.com/appwYVZkOaw0mf7xN/pag9fDF422FQbx53K/form?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 01
+> 👉 https://www.highimpactprofessionals.org/recruitment-manager?utm_source=80000hours&utm_medium=job-board
 
-💼 *Task Development Engineer* — Model Evaluation and Threat Research
+💼 *Chief of Staff / Managing Director* — High Impact Professionals
 > 🌍 Remote, Global
-> 👉 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 01
+> 👉 https://www.highimpactprofessionals.org/chief-of-staff-managing-director?utm_source=80000hours&utm_medium=job-board
 
-💼 *Graphic Designer* — The Midas Project
+💼 *Director of Operations* — High Impact Professionals
 > 🌍 Remote, Global
-> 👉 https://www.themidasproject.com/careers/graphic-designer?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 01
+> 👉 https://www.highimpactprofessionals.org/director-of-operations?utm_source=80000hours&utm_medium=job-board
 
-💼 *Course, Introduction to AI Safety* — Center for AI Safety
+💼 *AI Enablement Manager* — Epoch AI
 > 🌍 Remote, Global
-> 👉 https://www.coursera.org/learn/intro-to-ai-safety?utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.lever.co/epoch-ai/1d8d2e53-1ee7-492e-8f02-f8b52ef19cca?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
+
+🚀 *Fulcrum: a new program for AI safety entrepreneurship*
+> 👉 https://forum.effectivealtruism.org/posts/MNjFfhmPM8zAhRLYQ/fulcrum-a-new-program-for-ai-safety-entrepreneurship
+> _Posted Oct 09 on the EA Forum_
+
+🚀 *Pivotal Research Fellowship Q1 2027 Applications Open (deadline November 1)*
+> 👉 https://forum.effectivealtruism.org/posts/XWom297KDJXkirfiC/pivotal-research-fellowship-q1-2027-applications-open
+> _Posted Oct 09 on the EA Forum_
+
+🚀 *How important is instrumental convergence?*
+> 👉 https://forum.effectivealtruism.org/posts/oHYu5qrKbcBp7sDbq/how-important-is-instrumental-convergence
+> _Posted Oct 09 on the EA Forum_
+
+🚀 *Strategic Animal Funding Circle: Applications open for autumn 2026*
+> 👉 https://forum.effectivealtruism.org/posts/fyee4fFWzuM4XxD4x/strategic-animal-funding-circle-applications-open-for-autumn
+> _Posted Oct 08 on the EA Forum_
+
+🚀 *The NYU Center for Mind, Ethics, and Policy is hiring a Postdoctoral Associate*
+> 👉 https://forum.effectivealtruism.org/posts/CwmgYa9Lu7C6mhhKr/the-nyu-center-for-mind-ethics-and-policy-is-hiring-a
+> _Posted Oct 07 on the EA Forum_
+
+🚀 *Sparrow House is hiring a Senior Project Manager*
+> 👉 https://forum.effectivealtruism.org/posts/CocNicKzH9tPQKJd9/sparrow-house-is-hiring-a-senior-project-manager
+> _Posted Oct 06 on the EA Forum_
+
+🚀 *Applications Open: Better Futures Fellowship Fall 2026 by AIS Collab*
+> 👉 https://forum.effectivealtruism.org/posts/GuQCT5du9KEHuMTTK/applications-open-better-futures-fellowship-fall-2026-by-ais
+> _Posted Oct 06 on the EA Forum_
+
+🚀 *WAI is hiring a Live-Action EA Forum Commenter* (apps due by Oct 21)*
+> 👉 https://forum.effectivealtruism.org/posts/qy3cyzMv7FyuQp9LN/wai-is-hiring-a-live-action-ea-forum-commenter-apps-due-by
+> _Posted Oct 05 on the EA Forum_
 
 🚀 *We’re funding events to help people make sense of AI risk*
 > 👉 https://forum.effectivealtruism.org/posts/gvB9jyi8Mk6aHuFPZ/we-re-funding-events-to-help-people-make-sense-of-ai-risk
 > _Posted Oct 03 on the EA Forum_
-
-🚀 *Anonymous 'suggestion boxes' with a committed reward pool and administrators: a proposal*
-> 👉 https://forum.effectivealtruism.org/posts/oxFncTiAaHBJCgBZP/anonymous-suggestion-boxes-with-a-committed-reward-pool-and
-> _Posted Oct 01 on the EA Forum_
-
-🚀 *FLF’s Epistemic Case Study Competition: Results*
-> 👉 https://forum.effectivealtruism.org/posts/eadfvJH8HBQLgdMKQ/flf-s-epistemic-case-study-competition-results
-> _Posted Oct 01 on the EA Forum_
-
-🚀 *Become a Grantmaker: The Fieldshaper Program*
-> 👉 https://forum.effectivealtruism.org/posts/ZHkMrsvfe2HMxoKG9/become-a-grantmaker-the-fieldshaper-program
-> _Posted Oct 01 on the EA Forum_
-
-🚀 *Fast grants for AI x animals*
-> 👉 https://forum.effectivealtruism.org/posts/4ATjKyJSKksWrKif8/fast-grants-for-ai-x-animals
-> _Posted Sep 29 on the EA Forum_
