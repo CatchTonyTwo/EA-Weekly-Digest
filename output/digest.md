@@ -1,24 +1,10 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Oct 19 12:38 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Oct 26 11:55 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Rubbish journey in Barcelona/ El recorrido de la basura* _(Organised by ESALogika)_
-> 🗓️ *Tomorrow* (Tuesday, Oct 20 | 20:30 – 22:00)
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/316910095/
-
-🗓️ *Club de lectura: posts de LessWrong* _(Organised by EA Madrid)_
-> 🗓️ *Tomorrow* (Tuesday, Oct 20 | 23:30)
-> 👉 https://www.meetup.com/effective-altruism-madrid/events/316843301/
-
-🗓️ *ACX Madrid Meetup (otoño 2026)* _(Organised by EA Madrid)_
-> 🗓️ Sunday, Oct 25 | 12:00 – 14:00
-> 👉 https://www.meetup.com/effective-altruism-madrid/events/316950223/
-
-🗓️ *COMING UP SOON*
-
 🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
-> 🗓️ Tuesday, Oct 27 | 22:30 – 23:30
+> 🗓️ *Tomorrow* (Tuesday, Oct 27 | 22:30 – 23:30)
 > 👉 https://www.meetup.com/effective-altruism-madrid/events/316965516/
 
 🗓️ *Effective altruism coworking session*
@@ -26,9 +12,15 @@ _Draft generated Monday, Oct 19 12:38 (Europe/Madrid)_. _Review, edit, personali
 > 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
 > 👉 https://luma.com/xsohqcgu
 
+🗓️ *Social de Altruismo Eficaz: Octubre* _(Organised by EA Madrid)_
+> 🗓️ Friday, Oct 30 | 22:00
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/317082078/
+
 🗓️ *Sustainability and Improv - group games* _(Organised by ESALogika)_
 > 🗓️ Saturday, Oct 31 | 16:30 – 18:00
 > 👉 https://www.meetup.com/barcelona-community-meetup-group/events/317009537/
+
+🗓️ *COMING UP SOON*
 
 🗓️ *Trivia & Drinks: Questions That Matter*
 > 🗓️ Wednesday, Nov 4 | 19:00 – 20:30
@@ -44,79 +36,73 @@ _Draft generated Monday, Oct 19 12:38 (Europe/Madrid)_. _Review, edit, personali
 
 📍 *Remote — Europe*
 
-💼 *Events Producer / Head of Event Production* — Skylark
-> 🌍 Remote, UK, Remote, Europe
-> ⏰ Deadline: Oct 25
-> 👉 https://docs.google.com/document/d/1LtxHiY9VHw9GkvGRQBmAGjGl30g7HSlX25NZRRw5vVQ/edit?tab=t.qy9vbbswtkit&utm_source=80000hours&utm_medium=job-board#heading=h.2xzhgmoljbqf
-
-💼 *AI Industry Associate / Lead* — Future of Life Institute
+💼 *Programme Associate* — Talos Network
 > 🌍 Remote, Europe
-> ⏰ Deadline: Nov 15
-> 👉 https://jobs.lever.co/futureof-life/83c98c80-8756-4738-9cad-bb82f36e5432?utm_source=80000hours&utm_medium=job-board
+> 👉 https://docs.google.com/document/d/1p0GtfxBSotWhKDxNJQ1_gYePJ7OQzX0v9q4itUZEkT0/preview?utm_source=80000hours&utm_medium=job-board
+
+💼 *Operations Lead* — Talos Network
+> 🌍 Remote, Europe
+> 👉 https://docs.google.com/document/d/1aHuWly7_YMk8BzlXTqlchbX4z8TgFG5gdtrxC8bJ7i4/preview?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
-💼 *Recruiting Specialist* — Centre for Effective Altruism
+💼 *Research Fellowship* — Mercial
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 01
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=d6d11d64-a31b-45fb-9873-542aabef139a&utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Oct 28
+> 👉 https://mercial.uk/fellowship?utm_source=80000hours&utm_medium=job-board
 
-💼 *Events Program Lead, Special Events / Virtual Programs* — Centre for Effective Altruism
+💼 *Career Advisor and Headhunting / Events Specialist* — Probably Good
 > 🌍 Remote, Global
 > ⏰ Deadline: Nov 02
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=26efa0bd-3181-4439-b248-df7d5002bb75&utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.ashbyhq.com/probably-good/c9467740-6b2a-458e-aae4-a8209264e578?utm_source=80000hours&utm_medium=job-board
 
-💼 *Senior Media Specialist* — Centre for Effective Altruism
+💼 *Associate Researcher, Managing Exits from Armed Conflict* — United Nations, Institute for Disarmament Research
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 06
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=2c14c60c-8900-422b-bd7c-8246dc32d6ec&utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 02
+> 👉 https://unidir.org/job/associate-researcher-managing-exits-from-armed-conflict-261019/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Special Projects Manager* — Apart Research
-> 🌍 Remote, Global
-> 👉 https://apartresearch.com/careers/special-projects-manager?utm_source=80000hours&utm_medium=job-board
+💼 *Alignment Scientist / Engineer* — AE Studio
+> 🌍 Remote, Global, Los Angeles, CA
+> 👉 https://grnh.se/43mtxhhh4us?utm_source=80000hours&utm_medium=job-board
 
-💼 *Grants Associate* — Centre for Effective Altruism
-> 🌍 Remote, Global
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=7a67a108-1b94-4d11-9dc1-b1c62d95a3c8&utm_source=80000hours&utm_medium=job-board
+💼 *Alignment Research Manager* — AE Studio
+> 🌍 Remote, Global, Los Angeles, CA
+> 👉 https://grnh.se/og92mzxr4us?utm_source=80000hours&utm_medium=job-board
 
-💼 *Human Resources Associate* — Centre for Effective Altruism
+💼 *Designer / Senior Designer* — Epoch AI
 > 🌍 Remote, Global
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=ea55bcbe-d1f4-412d-95e7-41ef29802c38&utm_source=80000hours&utm_medium=job-board
+> 👉 https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a?utm_source=80000hours&utm_medium=job-board
 
 📰 *From the EA Forum*
 
-🚀 *Why I’m launching a Movement Infrastructure Lab: a request for proposals*
-> 👉 https://forum.effectivealtruism.org/posts/CD2B4E52EhGtdsZgi/why-i-m-launching-a-movement-infrastructure-lab-a-request
-> _Posted Oct 17 on the EA Forum_
+🚀 *Exactly what I’d do if I had to get a job in animal advocacy now*
+> 👉 https://forum.effectivealtruism.org/posts/6j4XMxcKWCSfjmJS4/exactly-what-i-d-do-if-i-had-to-get-a-job-in-animal-advocacy
+> _Posted Oct 23 on the EA Forum_
 
-🚀 *We’re scaling and hiring*
-> 👉 https://forum.effectivealtruism.org/posts/F7ZL4buXXB68FvhjZ/we-re-scaling-and-hiring
-> _Posted Oct 16 on the EA Forum_
+🚀 *Launching the Global Priorities Research Group at LSE - currently hiring for two 4-year postdocs*
+> 👉 https://forum.effectivealtruism.org/posts/hxaKPoHoDhMXrkpce/launching-the-global-priorities-research-group-at-lse
+> _Posted Oct 22 on the EA Forum_
 
-🚀 *Did I rejoin Ambitious Impact at the wrong time?*
-> 👉 https://forum.effectivealtruism.org/posts/g4fJLaCmexAxtBpdh/did-i-rejoin-ambitious-impact-at-the-wrong-time
-> _Posted Oct 15 on the EA Forum_
+🚀 *Drugs to shift food preferences*
+> 👉 https://forum.effectivealtruism.org/posts/fi5iWXJeNQ4K7mnZM/drugs-to-shift-food-preferences
+> _Posted Oct 22 on the EA Forum_
 
-🚀 *EA Summit: Seattle 2026*
-> 👉 https://forum.effectivealtruism.org/events/hbw5KvEQXjgYzsJAP/ea-summit-seattle-2026
-> _Posted Oct 14 on the EA Forum_
+🚀 *We're recruiting editors!--Journal of Effective Altruism*
+> 👉 https://forum.effectivealtruism.org/posts/P43KarwWAHbFmsDfB/we-re-recruiting-editors-journal-of-effective-altruism
+> _Posted Oct 22 on the EA Forum_
 
-🚀 *(Why) we’re launching the next cohort of Generator*
-> 👉 https://forum.effectivealtruism.org/posts/3Kd67yhSkNgvf2Fot/why-we-re-launching-the-next-cohort-of-generator
-> _Posted Oct 14 on the EA Forum_
+🚀 *ML4Good is scaling and hiring!*
+> 👉 https://forum.effectivealtruism.org/posts/8BdJrjNCCHKsSWXp9/ml4good-is-scaling-and-hiring
+> _Posted Oct 22 on the EA Forum_
 
-🚀 *High Impact Professionals is hiring: four remote roles (apply by November 1)*
-> 👉 https://forum.effectivealtruism.org/posts/SAFQxusCqyfGWzXYr/high-impact-professionals-is-hiring-four-remote-roles-apply
-> _Posted Oct 13 on the EA Forum_
+🚀 *Bioconversion using insects*
+> 👉 https://forum.effectivealtruism.org/posts/rbJXDqkFERa2rmbKJ/bioconversion-using-insects
+> _Posted Oct 22 on the EA Forum_
 
-🚀 *Lucky hires: how AI safety orgs find their COOs (and why that doesn't scale)*
-> 👉 https://forum.effectivealtruism.org/posts/SXJvawr3tMptCmq4o/lucky-hires-how-ai-safety-orgs-find-their-coos-and-why-that
-> _Posted Oct 13 on the EA Forum_
+🚀 *Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)*
+> 👉 https://forum.effectivealtruism.org/posts/f8fSwk4nsxSDfrnyb/which-ai-economics-and-governance-research-most-needs
+> _Posted Oct 20 on the EA Forum_
 
-🚀 *Become a Legal Impact for Chickens member and help LIC earn $50,000! *
-> 👉 https://forum.effectivealtruism.org/posts/J5tuB3uw5Fyrrwqqj/become-a-legal-impact-for-chickens-member-and-help-lic-earn
-> _Posted Oct 13 on the EA Forum_
-
-🚀 *Fulcrum: a new program for AI safety entrepreneurship*
-> 👉 https://forum.effectivealtruism.org/posts/MNjFfhmPM8zAhRLYQ/fulcrum-a-new-program-for-ai-safety-entrepreneurship
-> _Posted Oct 09 on the EA Forum_
+🚀 *Counterfactual 2:1 match for $250k in animal welfare donations on October 22nd*
+> 👉 https://forum.effectivealtruism.org/posts/vYgzjvwaS4t2Z8ZDB/counterfactual-2-1-match-for-usd250k-in-animal-welfare
+> _Posted Oct 20 on the EA Forum_

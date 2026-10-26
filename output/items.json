@@ -1,47 +1,6 @@
 {
-  "generated": "2026-10-19T10:38:50.135690+00:00",
+  "generated": "2026-10-26T10:55:53.742241+00:00",
   "this_week": [
-    {
-      "description": "Environmental Social Association of Barcelona ESAlogika **[Versión en español a continuación]** *English:* In this event you will find out more about: - What happens to the different types of rubbish after it is thrown away - How it is collected, where is it brought and how it is managed - What proportion is recycled/ burned for energy/ stored in landfill, or other These and many other questions will be answered in this educational workshop! This event is organised by Environmental Social Associ",
-      "title": "Rubbish journey in Barcelona/ El recorrido de la basura",
-      "start": "2026-10-20T18:30:00+00:00",
-      "end": "2026-10-20T20:00:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/barcelona-community-meetup-group/events/316910095/",
-      "source": "ESALogika (Meetup)",
-      "organizer": "ESALogika",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
-      "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos periódicamente textos (artículos, capítulos de libros) relacionados con la racionalidad y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. Esta semana comentaremos **estos artículos:** * **[Univers",
-      "title": "Club de lectura: posts de LessWrong",
-      "start": "2026-10-20T21:30:00+00:00",
-      "end": "2026-10-20T22:30:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/effective-altruism-madrid/events/316843301/",
-      "source": "EA Madrid (Meetup)",
-      "organizer": "EA Madrid",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
-      "description": "Altruismo Eficaz y Racionalidad Madrid Quedada informal para lectores de [Astral Codex Ten](https://www.astralcodexten.com/), el blog de Scott Alexander, un psiquiatra cuyo hobby de escribir sobre todo, desde IA y estadística hasta farmacología, leyes urbanísticas y civilizaciones antiguas, de alguna manera acabó convirtiéndose en uno de los blogs más influyentes de internet y generando toda una comunidad intelectual a su alrededor. No hace falta haber leído el blog ni saber nada sobre Scott par",
-      "title": "ACX Madrid Meetup (otoño 2026)",
-      "start": "2026-10-25T11:00:00+00:00",
-      "end": "2026-10-25T13:00:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/effective-altruism-madrid/events/316950223/",
-      "source": "EA Madrid (Meetup)",
-      "organizer": "EA Madrid",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    }
-  ],
-  "coming_up": [
     {
       "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos textos (artículos, capítulos de libros) relacionados con la racionalidad periódicamente y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. **Continuamos con *A Dialogue On Consciousness* de Torin A",
       "title": "Club de lectura: A Dialogue on Consciousness",
@@ -69,6 +28,19 @@
       "all_day": false
     },
     {
+      "description": "Altruismo Eficaz y Racionalidad Madrid ¡Hola a todos! Volvemos con nuestra reunión mensual de EA Madrid! Para los que todavía no nos conocéis, nos reunimos para hablar de altruismo eficaz: un movimiento dedicado a explorar cómo podemos mejorar el mundo y ayudar a la gente de una manera más efectiva. Solemos hablar de temas como intervenciones para mitigar la pobreza extrema, inteligencia artificial, bienestar animal, racionalidad o filosofía moral. La idea es juntarnos en **un ambiente relajado ",
+      "title": "Social de Altruismo Eficaz: Octubre",
+      "start": "2026-10-30T21:00:00+00:00",
+      "end": "2026-10-30T23:00:00+00:00",
+      "venue": "",
+      "url": "https://www.meetup.com/effective-altruism-madrid/events/317082078/",
+      "source": "EA Madrid (Meetup)",
+      "organizer": "EA Madrid",
+      "ours": false,
+      "relevant_note": "",
+      "all_day": false
+    },
+    {
       "description": "Environmental Social Association of Barcelona ESAlogika \\*Note: if this is your first member's event with us, confirmation is **required** by clicking [HERE](https://forms.gle/9AKw678SNqQpQpbJ8) (Google form to get your name and contact). This Halloween, ESA Logika is adding a twist to our monthly members' meet! 🎃👻 Join us for a fun evening of sustainability-themed improv games, where we'll make up stories, characters, and situations on the spot, with no scripts or rehearsals. What to expect: Fu",
       "title": "Sustainability and Improv - group games",
       "start": "2026-10-31T15:30:00+00:00",
@@ -80,7 +52,9 @@
       "ours": false,
       "relevant_note": "",
       "all_day": false
-    },
+    }
+  ],
+  "coming_up": [
     {
       "description": "",
       "title": "Trivia & Drinks: Questions That Matter",
@@ -110,87 +84,80 @@
   ],
   "opportunities": [
     {
-      "title": "Why I’m launching a Movement Infrastructure Lab: a request for proposals",
-      "url": "https://forum.effectivealtruism.org/posts/CD2B4E52EhGtdsZgi/why-i-m-launching-a-movement-infrastructure-lab-a-request",
-      "posted": "2026-10-17T00:16:21.652000+00:00",
-      "score": 10,
+      "title": "Exactly what I’d do if I had to get a job in animal advocacy now",
+      "url": "https://forum.effectivealtruism.org/posts/6j4XMxcKWCSfjmJS4/exactly-what-i-d-do-if-i-had-to-get-a-job-in-animal-advocacy",
+      "posted": "2026-10-23T16:31:07.672000+00:00",
+      "score": 21,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "We’re scaling and hiring",
-      "url": "https://forum.effectivealtruism.org/posts/F7ZL4buXXB68FvhjZ/we-re-scaling-and-hiring",
-      "posted": "2026-10-16T12:01:31.592000+00:00",
-      "score": 36,
+      "title": "Launching the Global Priorities Research Group at LSE - currently hiring for two 4-year postdocs",
+      "url": "https://forum.effectivealtruism.org/posts/hxaKPoHoDhMXrkpce/launching-the-global-priorities-research-group-at-lse",
+      "posted": "2026-10-22T15:41:42.438000+00:00",
+      "score": 30,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "Did I rejoin Ambitious Impact at the wrong time?",
-      "url": "https://forum.effectivealtruism.org/posts/g4fJLaCmexAxtBpdh/did-i-rejoin-ambitious-impact-at-the-wrong-time",
-      "posted": "2026-10-15T13:22:18.443000+00:00",
-      "score": 54,
+      "title": "Drugs to shift food preferences",
+      "url": "https://forum.effectivealtruism.org/posts/fi5iWXJeNQ4K7mnZM/drugs-to-shift-food-preferences",
+      "posted": "2026-10-22T14:46:17.082000+00:00",
+      "score": 48,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "EA Summit: Seattle 2026",
-      "url": "https://forum.effectivealtruism.org/events/hbw5KvEQXjgYzsJAP/ea-summit-seattle-2026",
-      "posted": "2026-10-14T13:47:48.438000+00:00",
-      "score": 10,
+      "title": "We're recruiting editors!--Journal of Effective Altruism",
+      "url": "https://forum.effectivealtruism.org/posts/P43KarwWAHbFmsDfB/we-re-recruiting-editors-journal-of-effective-altruism",
+      "posted": "2026-10-22T13:40:21.824000+00:00",
+      "score": 7,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "(Why) we’re launching the next cohort of Generator",
-      "url": "https://forum.effectivealtruism.org/posts/3Kd67yhSkNgvf2Fot/why-we-re-launching-the-next-cohort-of-generator",
-      "posted": "2026-10-14T05:41:53.645000+00:00",
-      "score": 41,
+      "title": "ML4Good is scaling and hiring!",
+      "url": "https://forum.effectivealtruism.org/posts/8BdJrjNCCHKsSWXp9/ml4good-is-scaling-and-hiring",
+      "posted": "2026-10-22T13:14:18.811000+00:00",
+      "score": 19,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "High Impact Professionals is hiring: four remote roles (apply by November 1)",
-      "url": "https://forum.effectivealtruism.org/posts/SAFQxusCqyfGWzXYr/high-impact-professionals-is-hiring-four-remote-roles-apply",
-      "posted": "2026-10-13T13:04:15.878000+00:00",
-      "score": 18,
+      "title": "Bioconversion using insects",
+      "url": "https://forum.effectivealtruism.org/posts/rbJXDqkFERa2rmbKJ/bioconversion-using-insects",
+      "posted": "2026-10-22T12:06:59.048000+00:00",
+      "score": 9,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "Lucky hires: how AI safety orgs find their COOs (and why that doesn't scale)",
-      "url": "https://forum.effectivealtruism.org/posts/SXJvawr3tMptCmq4o/lucky-hires-how-ai-safety-orgs-find-their-coos-and-why-that",
-      "posted": "2026-10-13T11:26:29.017000+00:00",
-      "score": 20,
+      "title": "Which AI economics and governance research most needs independent expert evaluation? (help The Unjournal prioritize it)",
+      "url": "https://forum.effectivealtruism.org/posts/f8fSwk4nsxSDfrnyb/which-ai-economics-and-governance-research-most-needs",
+      "posted": "2026-10-20T18:39:41.096000+00:00",
+      "score": 22,
       "source": "EA Forum — Opportunities to take action"
     },
     {
-      "title": "Become a Legal Impact for Chickens member and help LIC earn $50,000! ",
-      "url": "https://forum.effectivealtruism.org/posts/J5tuB3uw5Fyrrwqqj/become-a-legal-impact-for-chickens-member-and-help-lic-earn",
-      "posted": "2026-10-13T01:31:34.211000+00:00",
-      "score": 13,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Fulcrum: a new program for AI safety entrepreneurship",
-      "url": "https://forum.effectivealtruism.org/posts/MNjFfhmPM8zAhRLYQ/fulcrum-a-new-program-for-ai-safety-entrepreneurship",
-      "posted": "2026-10-09T20:33:50.797000+00:00",
-      "score": 11,
+      "title": "Counterfactual 2:1 match for $250k in animal welfare donations on October 22nd",
+      "url": "https://forum.effectivealtruism.org/posts/vYgzjvwaS4t2Z8ZDB/counterfactual-2-1-match-for-usd250k-in-animal-welfare",
+      "posted": "2026-10-20T00:18:24.252000+00:00",
+      "score": 99,
       "source": "EA Forum — Opportunities to take action"
     }
   ],
   "jobs": {
     "Remote — Europe": [
       {
-        "title": "Events Producer / Head of Event Production",
-        "org": "Skylark",
-        "url": "https://docs.google.com/document/d/1LtxHiY9VHw9GkvGRQBmAGjGl30g7HSlX25NZRRw5vVQ/edit?tab=t.qy9vbbswtkit&utm_source=80000hours&utm_medium=job-board#heading=h.2xzhgmoljbqf",
-        "posted": "2026-10-15T00:00:00+00:00",
-        "closes": "2026-10-25T00:00:00+00:00",
+        "title": "Programme Associate",
+        "org": "Talos Network",
+        "url": "https://docs.google.com/document/d/1p0GtfxBSotWhKDxNJQ1_gYePJ7OQzX0v9q4itUZEkT0/preview?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-20T00:04:08+00:00",
+        "closes": null,
         "tier": "Remote — Europe",
-        "location": "Remote, UK, Remote, Europe",
+        "location": "Remote, Europe",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "AI Industry Associate / Lead",
-        "org": "Future of Life Institute",
-        "url": "https://jobs.lever.co/futureof-life/83c98c80-8756-4738-9cad-bb82f36e5432?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:05:00+00:00",
-        "closes": "2026-11-15T00:00:00+00:00",
+        "title": "Operations Lead",
+        "org": "Talos Network",
+        "url": "https://docs.google.com/document/d/1aHuWly7_YMk8BzlXTqlchbX4z8TgFG5gdtrxC8bJ7i4/preview?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-20T00:04:18+00:00",
+        "closes": null,
         "tier": "Remote — Europe",
         "location": "Remote, Europe",
         "source": "80,000 Hours job board"
@@ -198,60 +165,60 @@
     ],
     "Remote — Global": [
       {
-        "title": "Recruiting Specialist",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=d6d11d64-a31b-45fb-9873-542aabef139a&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:04:09+00:00",
-        "closes": "2026-11-01T00:00:00+00:00",
+        "title": "Research Fellowship",
+        "org": "Mercial",
+        "url": "https://mercial.uk/fellowship?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-21T00:00:00+00:00",
+        "closes": "2026-10-28T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Events Program Lead, Special Events / Virtual Programs",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=26efa0bd-3181-4439-b248-df7d5002bb75&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:04:50+00:00",
+        "title": "Career Advisor and Headhunting / Events Specialist",
+        "org": "Probably Good",
+        "url": "https://jobs.ashbyhq.com/probably-good/c9467740-6b2a-458e-aae4-a8209264e578?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-23T00:00:00+00:00",
         "closes": "2026-11-02T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Senior Media Specialist",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=2c14c60c-8900-422b-bd7c-8246dc32d6ec&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:04:12+00:00",
-        "closes": "2026-11-06T00:00:00+00:00",
+        "title": "Associate Researcher, Managing Exits from Armed Conflict",
+        "org": "United Nations, Institute for Disarmament Research",
+        "url": "https://unidir.org/job/associate-researcher-managing-exits-from-armed-conflict-261019/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-23T00:00:00+00:00",
+        "closes": "2026-11-02T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Special Projects Manager",
-        "org": "Apart Research",
-        "url": "https://apartresearch.com/careers/special-projects-manager?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-15T00:04:39+00:00",
+        "title": "Alignment Scientist / Engineer",
+        "org": "AE Studio",
+        "url": "https://grnh.se/43mtxhhh4us?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-22T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, Los Angeles, CA",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Grants Associate",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=7a67a108-1b94-4d11-9dc1-b1c62d95a3c8&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:04:08+00:00",
+        "title": "Alignment Research Manager",
+        "org": "AE Studio",
+        "url": "https://grnh.se/og92mzxr4us?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-22T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, Los Angeles, CA",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Human Resources Associate",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=ea55bcbe-d1f4-412d-95e7-41ef29802c38&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-16T00:04:51+00:00",
+        "title": "Designer / Senior Designer",
+        "org": "Epoch AI",
+        "url": "https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-10-22T00:04:11+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
