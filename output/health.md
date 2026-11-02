@@ -1,5 +1,5 @@
 # Source health report
-Run: 2026-10-26 10:55 UTC
+Run: 2026-11-02 13:19 UTC
 
 | Source | Status | Items | Note |
 |---|---|---|---|
@@ -11,9 +11,9 @@ Run: 2026-10-26 10:55 UTC
 | ESALogika (Meetup) | ✅ ok | 1 | 1 events in feed |
 | Social Impact Meetups (Meetup) | ⚠️ empty | 0 | 0 events in feed |
 | Norrsken events (Firecrawl) | ➖ skipped | 0 | skipped — set FIRECRAWL_API_KEY to enable (free tier at firecrawl.dev). Check manually: https://www.norrsken.org/events |
-| EA Forum events | ⚠️ empty | 0 | 22 events on forum, 0 matched location filter |
-| EA Forum — Opportunities to take action | ✅ ok | 8 | 15 posts on tag, 8 above min_score |
-| 80,000 Hours job board | ✅ ok | 8 | Barcelona: 0 (≤60d); Spain: 0 (≤45d); Remote — Europe: 2 (≤10d); Remote — Global: 6 (≤10d) |
+| EA Forum events | ❌ error | 0 | HTTPError: HTTP Error 429: Too Many Requests |
+| EA Forum — Opportunities to take action | ❌ error | 0 | HTTPError: HTTP Error 429: Too Many Requests |
+| 80,000 Hours job board | ✅ ok | 5 | Barcelona: 0 (≤60d); Spain: 0 (≤45d); Remote — Europe: 1 (≤10d); Remote — Global: 4 (≤10d) |
 | LLM blurbs | ➖ skipped |  | ANTHROPIC_API_KEY not set (optional) |
 | Google Sheet log | ➖ skipped |  | SHEET_WEBHOOK_URL not set (optional) |
 
