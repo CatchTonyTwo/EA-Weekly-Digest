@@ -1,19 +1,11 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Nov 02 14:19 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Nov 09 14:44 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Trivia & Drinks: Questions That Matter*
-> 🗓️ Wednesday, Nov 4 | 19:00 – 20:30
-> 📍 Alice Secret Garden (Carrer de Pau Claris)
-> 👉 https://luma.com/bxbs35a8
+_(no events found for this week)_
 
 🗓️ *COMING UP SOON*
-
-🗓️ *Effective altruism coworking session*
-> 🗓️ Wednesday, Nov 11 | 10:00 – 13:00
-> 📍 Sopa Barcelona (Carrer de Roc Boronat)
-> 👉 https://luma.com/dx305ss3
 
 🗓️ *Forgotten Plants: Re-discovering Wild and Traditional Varieties* _(Organised by ESALogika)_
 > 🗓️ Tuesday, Nov 17 | 19:45 – 22:15
@@ -22,6 +14,11 @@ _Draft generated Monday, Nov 02 14:19 (Europe/Madrid)_. _Review, edit, personali
 🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
 > 🗓️ Tuesday, Nov 17 | 22:30
 > 👉 https://www.meetup.com/effective-altruism-madrid/events/317196973/
+
+🗓️ *Effective altruism coworking session*
+> 🗓️ Wednesday, Nov 18 | 10:00 – 13:00
+> 📍 Sopa Barcelona (Carrer de Roc Boronat)
+> 👉 https://luma.com/dx305ss3
 
 🗓️ *Club de lectura: posts de LessWrong* _(Organised by EA Madrid)_
 > 🗓️ Tuesday, Nov 24 | 22:30 – 23:30
@@ -32,32 +29,43 @@ _Draft generated Monday, Nov 02 14:19 (Europe/Madrid)_. _Review, edit, personali
 > 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
 > 👉 https://luma.com/e9e1wr02
 
+🗓️ *COP31 Outcomes and Leading Impact in times of uncertainty* _(Not organised by us but relevant!)_
+> 🗓️ Thursday, Nov 26 | 20:00 – 22:30
+> 👉 https://www.meetup.com/barcelona-international-development-professionals/events/317352530/
+
 🚀 *OPPORTUNITIES & JOBS*
 
 📍 *Remote — Europe*
 
-💼 *Operations and Programs Associate* — AI Safety Connect
+💼 *Research Scientist, Manipulation Evaluations* — Apart Research
 > 🌍 Remote, Europe
-> ⏰ Deadline: Nov 06
-> 👉 https://portal.aisafetyconnect.org/operations-programs-associate?utm_source=80000hours&utm_medium=job-board
+> 👉 https://apartresearch.com/careers/research-scientist-manipulation-evals?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
-💼 *Contractor, Horizon Scanner, Coordinated Research Programs* — Principles of Intelligence
+💼 *Center on Long-Term Risk Fundamentals Program* — Center on Long-Term Risk
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 05
-> 👉 http://princint.ai/now-hiring-horizon-scanner-contractor-coordinated-research-programs?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 16
+> 👉 https://longtermrisk.org/programs/fundamentals-program/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Operations Assistant* — AI Safety Asia
+💼 *Operations Associate* — Animal Advocacy Careers
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 13
-> 👉 https://docs.google.com/document/d/1g3kYl5vUTxmUQB8tIcsh3V3uSAyC0znTc8XZlIMTN-I/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 20
+> 👉 https://animaladvocacycareers.org/operations-associate/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Introductory Effective Altruism Program* — Centre for Effective Altruism
+💼 *Research Scientist* — Principles of Intelligence
+> 🌍 Remote, Global, London, UK
+> ⏰ Deadline: Nov 20
+> 👉 https://princint.ai/research-scientists-at-principles-of-intelligence/?utm_source=80000hours&utm_medium=job-board
+
+💼 *Mentor, PRISM 2027* — Peer-Vetted Research Initiative for Safety Methodologies
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 15
-> 👉 https://www.effectivealtruism.org/courses/introductory-program?utm_source=ea_forum&utm_medium=vp_card&utm_campaign=events_page
+> 👉 https://prism-research.org/mentors?utm_source=80000hours&utm_medium=job-board
 
-💼 *Research Engineer* — FAR AI
-> 🌍 Remote, Global, San Francisco Bay Area
-> 👉 https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js&utm_source=80000hours&utm_medium=job-board
+💼 *Project Tailwind, Call for Ambitious AI Safety Initiatives* — Coefficient Giving
+> 🌍 Remote, Global
+> 👉 https://coefficientgiving.org/tailwind/?utm_source=80000hours&utm_medium=job-board
+
+💼 *Senior Research Scientist, Post-training and Safety* — Compassion Aligned Machine Learning
+> 🌍 Remote, Global
+> 👉 https://www.compassionml.com/careers?utm_source=80000hours&utm_medium=job-board#senior-research-scientist

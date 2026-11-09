@@ -1,34 +1,7 @@
 {
-  "generated": "2026-11-02T13:19:12.588921+00:00",
-  "this_week": [
-    {
-      "description": "",
-      "title": "Trivia & Drinks: Questions That Matter",
-      "start": "2026-11-04T18:00:00+00:00",
-      "end": "2026-11-04T19:30:00+00:00",
-      "venue": "Alice Secret Garden, Carrer de Pau Claris, 90, Eixample, 08010 Barcelona, Spain",
-      "url": "https://luma.com/bxbs35a8",
-      "source": "EA Barcelona (Luma)",
-      "organizer": "",
-      "ours": true,
-      "relevant_note": "",
-      "all_day": false
-    }
-  ],
+  "generated": "2026-11-09T13:44:38.077071+00:00",
+  "this_week": [],
   "coming_up": [
-    {
-      "description": "",
-      "title": "Effective altruism coworking session",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T12:00:00+00:00",
-      "venue": "Sopa Barcelona, Carrer de Roc Boronat, 114, Sant Martí, 08018 Barcelona, Spain",
-      "url": "https://luma.com/dx305ss3",
-      "source": "EA Barcelona (Luma)",
-      "organizer": "",
-      "ours": true,
-      "relevant_note": "",
-      "all_day": false
-    },
     {
       "description": "Environmental Social Association of Barcelona ESAlogika While this event itself is free of charge, **consumption at the venue is compulsory** and very affordable. We appreciate your understanding that our team works voluntarily, but the venue needs to pay rent and bills :) NUS - Neglected and Underutilized Species. In this workshop with **Alejandro García Díaz,** you will explore: * What they are * Why it's important to recover their use and related knowledge * Which ones can we find in this are",
       "title": "Forgotten Plants: Re-discovering Wild and Traditional Varieties",
@@ -52,6 +25,19 @@
       "source": "EA Madrid (Meetup)",
       "organizer": "EA Madrid",
       "ours": false,
+      "relevant_note": "",
+      "all_day": false
+    },
+    {
+      "description": "",
+      "title": "Effective altruism coworking session",
+      "start": "2026-11-18T09:00:00+00:00",
+      "end": "2026-11-18T12:00:00+00:00",
+      "venue": "Sopa Barcelona, Carrer de Roc Boronat, 114, Sant Martí, 08018 Barcelona, Spain",
+      "url": "https://luma.com/dx305ss3",
+      "source": "EA Barcelona (Luma)",
+      "organizer": "",
+      "ours": true,
       "relevant_note": "",
       "all_day": false
     },
@@ -80,17 +66,30 @@
       "ours": true,
       "relevant_note": "",
       "all_day": false
+    },
+    {
+      "description": "The Social Impact Meetups Our social impact Meetup is back! At a time when securing and sustaining funding has become more challenging for many organizations in the impact space, we are coming together to reflect on the outcomes of COP31, share resilient leadership experiences and practices, learn from one another, and connect Welcome and Introduction by Devex (5 min) - Alex Cabaret Mini-Briefing: Key Outcomes from COP31 (10 min) - Lluis Vilardell Talk and Practice: Resilient Leadership - Naviga",
+      "title": "COP31 Outcomes and Leading Impact in times of uncertainty",
+      "start": "2026-11-26T19:00:00+00:00",
+      "end": "2026-11-26T21:30:00+00:00",
+      "venue": "",
+      "url": "https://www.meetup.com/barcelona-international-development-professionals/events/317352530/",
+      "source": "Social Impact Meetups (Meetup)",
+      "organizer": "The Social Impact Meetups",
+      "ours": false,
+      "relevant_note": "Not organised by us but relevant!",
+      "all_day": false
     }
   ],
   "opportunities": [],
   "jobs": {
     "Remote — Europe": [
       {
-        "title": "Operations and Programs Associate",
-        "org": "AI Safety Connect",
-        "url": "https://portal.aisafetyconnect.org/operations-programs-associate?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-27T00:02:00+00:00",
-        "closes": "2026-11-06T00:00:00+00:00",
+        "title": "Research Scientist, Manipulation Evaluations",
+        "org": "Apart Research",
+        "url": "https://apartresearch.com/careers/research-scientist-manipulation-evals?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-02T00:00:00+00:00",
+        "closes": null,
         "tier": "Remote — Europe",
         "location": "Remote, Europe",
         "source": "80,000 Hours job board"
@@ -98,43 +97,63 @@
     ],
     "Remote — Global": [
       {
-        "title": "Contractor, Horizon Scanner, Coordinated Research Programs",
+        "title": "Center on Long-Term Risk Fundamentals Program",
+        "org": "Center on Long-Term Risk",
+        "url": "https://longtermrisk.org/programs/fundamentals-program/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-06T00:04:13+00:00",
+        "closes": "2026-11-16T00:00:00+00:00",
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Operations Associate",
+        "org": "Animal Advocacy Careers",
+        "url": "https://animaladvocacycareers.org/operations-associate/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-06T00:00:00+00:00",
+        "closes": "2026-11-20T00:00:00+00:00",
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Research Scientist",
         "org": "Principles of Intelligence",
-        "url": "http://princint.ai/now-hiring-horizon-scanner-contractor-coordinated-research-programs?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-30T00:01:00+00:00",
-        "closes": "2026-11-05T00:00:00+00:00",
+        "url": "https://princint.ai/research-scientists-at-principles-of-intelligence/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-05T00:03:00+00:00",
+        "closes": "2026-11-20T00:00:00+00:00",
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, London, UK",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Operations Assistant",
-        "org": "AI Safety Asia",
-        "url": "https://docs.google.com/document/d/1g3kYl5vUTxmUQB8tIcsh3V3uSAyC0znTc8XZlIMTN-I/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-30T00:01:00+00:00",
-        "closes": "2026-11-13T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Introductory Effective Altruism Program",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.effectivealtruism.org/courses/introductory-program?utm_source=ea_forum&utm_medium=vp_card&utm_campaign=events_page",
-        "posted": "2026-10-28T00:00:00+00:00",
-        "closes": "2026-11-15T00:00:00+00:00",
-        "tier": "Remote — Global",
-        "location": "Remote, Global",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Research Engineer",
-        "org": "FAR AI",
-        "url": "https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-10-26T00:00:00+00:00",
+        "title": "Mentor, PRISM 2027",
+        "org": "Peer-Vetted Research Initiative for Safety Methodologies",
+        "url": "https://prism-research.org/mentors?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-05T00:01:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global, San Francisco Bay Area",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Project Tailwind, Call for Ambitious AI Safety Initiatives",
+        "org": "Coefficient Giving",
+        "url": "https://coefficientgiving.org/tailwind/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-06T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Senior Research Scientist, Post-training and Safety",
+        "org": "Compassion Aligned Machine Learning",
+        "url": "https://www.compassionml.com/careers?utm_source=80000hours&utm_medium=job-board#senior-research-scientist",
+        "posted": "2026-11-06T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Global",
+        "location": "Remote, Global",
         "source": "80,000 Hours job board"
       }
     ]
