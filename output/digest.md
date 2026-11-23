@@ -1,25 +1,10 @@
 *EA Weekly Digest — EA Barcelona*
-_Draft generated Monday, Nov 16 14:28 (Europe/Madrid)_. _Review, edit, personalise — then send._
+_Draft generated Monday, Nov 23 16:49 (Europe/Madrid)_. _Review, edit, personalise — then send._
 
 👇 *THIS WEEK*
 
-🗓️ *Forgotten Plants: Re-discovering Wild and Traditional Varieties* _(Organised by ESALogika)_
-> 🗓️ *Tomorrow* (Tuesday, Nov 17 | 19:45 – 22:15)
-> 👉 https://www.meetup.com/barcelona-community-meetup-group/events/317252606/
-
-🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
-> 🗓️ *Tomorrow* (Tuesday, Nov 17 | 22:30)
-> 👉 https://www.meetup.com/effective-altruism-madrid/events/317196973/
-
-🗓️ *Effective altruism coworking session*
-> 🗓️ Wednesday, Nov 18 | 10:00 – 13:00
-> 📍 Sopa Barcelona (Carrer de Roc Boronat)
-> 👉 https://luma.com/dx305ss3
-
-🗓️ *COMING UP SOON*
-
 🗓️ *Club de lectura: posts de LessWrong* _(Organised by EA Madrid)_
-> 🗓️ Tuesday, Nov 24 | 22:30 – 23:30
+> 🗓️ *Tomorrow* (Tuesday, Nov 24 | 22:30 – 23:30)
 > 👉 https://www.meetup.com/effective-altruism-madrid/events/317197360/
 
 🗓️ *Effective altruism coworking session*
@@ -27,8 +12,18 @@ _Draft generated Monday, Nov 16 14:28 (Europe/Madrid)_. _Review, edit, personali
 > 📍 AKASHA Hub Barcelona (Carrer de la Verneda)
 > 👉 https://luma.com/e9e1wr02
 
+🗓️ *Social de Altruismo Eficaz: Noviembre* _(Organised by EA Madrid)_
+> 🗓️ Friday, Nov 27 | 21:30 – 23:30
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/317524800/
+
+🗓️ *COMING UP SOON*
+
+🗓️ *Club de lectura: A Dialogue on Consciousness* _(Organised by EA Madrid)_
+> 🗓️ Tuesday, Dec 1 | 22:30
+> 👉 https://www.meetup.com/effective-altruism-madrid/events/317524888/
+
 🗓️ *COP31 Outcomes and Leading Impact in times of uncertainty* _(Not organised by us but relevant!)_
-> 🗓️ Thursday, Nov 26 | 20:00 – 22:30
+> 🗓️ Thursday, Dec 3 | 20:00 – 22:00
 > 👉 https://www.meetup.com/barcelona-international-development-professionals/events/317352530/
 
 🗓️ *Effective altruism coworking session*
@@ -40,76 +35,48 @@ _Draft generated Monday, Nov 16 14:28 (Europe/Madrid)_. _Review, edit, personali
 
 📍 *Remote — Europe*
 
-💼 *Coordinator, SparkWell* — Anti Entropy
-> 🌍 Remote, USA, Remote, Europe
-> ⏰ Deadline: Nov 29
-> 👉 https://docs.google.com/document/d/1Z7szio2o3gjGXlYBSr6eKkzhm1H33koRab-mBzwhiC8/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board
-
-💼 *Student Trainee, Operations Assistance* — Effective Altruism Germany
-> 🌍 Remote, Germany
-> ⏰ Deadline: Nov 30
-> 👉 https://www.effektiveraltruismus.de/jobs?utm_source=80000hours&utm_medium=job-board
-
-💼 *Talos Fellowship* — Talos Network
+💼 *Policy Careers Manager* — Impactful Policy Careers
 > 🌍 Remote, Europe
-> ⏰ Deadline: Dec 06
-> 👉 https://www.talosnetwork.org/talos-fellowship?utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 29
+> 👉 https://www.impactfulpolicycareers.com/career-pathways-manager?fbclid=IwY2xjawVYj2VleHRuA2FlbQIxMQBwZG9mAWJyaWQRMThqTzhZemdqQU9RSjVUTmNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfbS5eL20eqNdR23NNk3tfNr6ZcQDVArGDi3UwaBlP1KN6xhOSk1IVsvmNAcA_aem_sYArNG5HTlA4IFAutnewng&utm_source=80000hours&utm_medium=job-board
 
-💼 *Talos Incubator, Europe* — Talos Network
-> 🌍 Brussels, Belgium, Remote, Europe
-> ⏰ Deadline: Dec 06
-> 👉 https://www.talosnetwork.org/talos-incubator-europe?utm_source=80000hours&utm_medium=job-board
+💼 *Researcher, Technical AI Governance* — Le Centre pour la Sécurité de l'IA
+> 🌍 Remote, Europe
+> ⏰ Deadline: Dec 15
+> 👉 https://cesia.org/en/careers/technical-ai-governance-researcher/?utm_source=80000hours&utm_medium=job-board
+
+💼 *Talent Pool, Senior Policy Experts in AI* — The School for Moral Ambition
+> 🌍 Remote, Europe
+> 👉 https://careers.moralambition.org/en/jobs/8629605-talent-pool-senior-policy-experts-in-ai/f9411b71-1451-4af0-b5bc-eb8d79ae71dd?utm_source=80000hours&utm_medium=job-board
+
+💼 *Talent Pool, AI Hardware Experts* — The School for Moral Ambition
+> 🌍 Remote, Europe
+> 👉 https://careers.moralambition.org/en/jobs/8629604-talent-pool-ai-hardware-experts/f2fc2603-c16e-452c-974d-9f75a0df9e76?utm_source=80000hours&utm_medium=job-board
 
 📍 *Remote — Global*
 
-💼 *AI Safety for Italy Mentorship Program* — AI Safety for Italy
+💼 *Mentor, Supervised Program for Alignment Research (Spring 2027)* — Kairos
 > 🌍 Remote, Global
-> ⏰ Deadline: Nov 20
-> 👉 https://www.ais4i.it/mentorship/?utm_source=aisafety.com&utm_medium=referral&utm_campaign=training
+> ⏰ Deadline: Nov 30
+> 👉 https://sparai.org/mentors/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Director, Marketing and Communications* — Centre for Effective Altruism
+💼 *Course, AI Safety in China (December 2026)* — Hong Kong AI Safety Hub
 > 🌍 Remote, Global
-> ⏰ Deadline: Dec 03
-> 👉 https://www.centreforeffectivealtruism.org/careers?ashby_jid=685f1ac4-08e9-494d-b8d1-eff2f28ddd99&utm_source=80000hours&utm_medium=job-board
+> ⏰ Deadline: Nov 30
+> 👉 https://docs.google.com/forms/d/e/1FAIpQLSfDLVAVjlth9dLbpfRSJLbn7bHTFV1C5jEwip8_nd17hLAlIA/viewform?utm_source=80000hours&utm_medium=job-board
 
-💼 *Board Member / Board Chair* — EA Somalia
+💼 *Lead Research Engineer, AI Evaluations and Red Teaming* — Syntony
 > 🌍 Remote, Global
-> 👉 https://docs.google.com/document/d/1qMkqSmHdqAY8qemlaUK17E8BYuyqCf_t/edit?utm_source=80000hours&utm_medium=job-board
+> 👉 https://www.syntonyresearch.ai/work/ai-evaluation-engineer/?utm_source=80000hours&utm_medium=job-board
 
-💼 *Digital Media Accelerator* — Future of Life Institute
+💼 *AI Safety Residency* — Women Who Do Data
 > 🌍 Remote, Global
-> 👉 https://futureoflife.org/project/digital-media-accelerator/?utm_source=newsletter.futureoflife.org&utm_medium=newsletter&utm_campaign=future-of-life-institute-newsletter-one-big-beautiful-bill-banning-state-ai-laws
+> 👉 https://www.w2d2.org/blog/2026-11-ai-safety-residency?utm_source=80000hours&utm_medium=job-board
 
-💼 *Facilitator* — Mercial
+💼 *Talent Pool, Founders in AI* — The School for Moral Ambition
 > 🌍 Remote, Global
-> 👉 https://mercial.uk/facilitators?utm_source=80000hours&utm_medium=job-board
+> 👉 https://careers.moralambition.org/en/jobs/8552014-talent-pool-founders-in-ai/ebfa1339-d2fa-4eb4-a9a1-b1557d4556f3?utm_source=80000hours&utm_medium=job-board
 
-💼 *Staff Technical Writer* — FAR AI
-> 🌍 Remote, Global
-> 👉 https://jobs.ashbyhq.com/far.ai/544abe12-1a7a-4759-abc0-b3bd33626645?embed=js&utm_source=80000hours&utm_medium=job-board
-
-📰 *From the EA Forum*
-
-🚀 *Help Us Respond to Enormous Global Needs: Why We’re Recommending the All Grants Fund*
-> 👉 https://forum.effectivealtruism.org/posts/miuFNTS2s5zk3gYWJ/help-us-respond-to-enormous-global-needs-why-we-re
-> _Posted Nov 13 on the EA Forum_
-
-🚀 *Seeking Facilitators for a Global Mental Health & Wellbeing Project Incubator*
-> 👉 https://forum.effectivealtruism.org/posts/e79W9f8jZwcxEnHuQ/seeking-facilitators-for-a-global-mental-health-and-1
-> _Posted Nov 11 on the EA Forum_
-
-🚀 *Announcing our 2026 Charity Recommendations*
-> 👉 https://forum.effectivealtruism.org/posts/uaTctowvZ5fj7dCB2/announcing-our-2026-charity-recommendations
-> _Posted Nov 10 on the EA Forum_
-
-🚀 *We want to run events for you!*
-> 👉 https://forum.effectivealtruism.org/posts/y4PqHqEKiKsR7zTzJ/we-want-to-run-events-for-you
-> _Posted Nov 10 on the EA Forum_
-
-🚀 *Request for Proposals: Incubation*
-> 👉 https://forum.effectivealtruism.org/posts/bGxQuGSTWpm8HCmtj/request-for-proposals-incubation
-> _Posted Nov 09 on the EA Forum_
-
-🚀 *AI agents for effective causes*
-> 👉 https://forum.effectivealtruism.org/posts/6sNR5KuzSQHo5GDeo/ai-agents-for-effective-causes
-> _Posted Nov 07 on the EA Forum_
+💼 *Loss of Control Lead, Frontier Safety* — FAR AI
+> 🌍 Remote, Global, Remote, USA
+> 👉 https://jobs.ashbyhq.com/far.ai/944c8ddd-8dd6-4fa2-aa54-6e8ed4fd3c15?embed=js&utm_source=80000hours&utm_medium=job-board

@@ -1,47 +1,6 @@
 {
-  "generated": "2026-11-16T13:28:48.637529+00:00",
+  "generated": "2026-11-23T15:49:16.018536+00:00",
   "this_week": [
-    {
-      "description": "Environmental Social Association of Barcelona ESAlogika While this event itself is free of charge, **consumption at the venue is compulsory** and very affordable. We appreciate your understanding that our team works voluntarily, but the venue needs to pay rent and bills :) NUS - Neglected and Underutilized Species. In this workshop with **Alejandro García Díaz,** you will explore: * What they are * Why it's important to recover their use and related knowledge * Which ones can we find in this are",
-      "title": "Forgotten Plants: Re-discovering Wild and Traditional Varieties",
-      "start": "2026-11-17T18:45:00+00:00",
-      "end": "2026-11-17T21:15:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/barcelona-community-meetup-group/events/317252606/",
-      "source": "ESALogika (Meetup)",
-      "organizer": "ESALogika",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
-      "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos textos (artículos, capítulos de libros) relacionados con la racionalidad periódicamente y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. **Continueamos con *A Dialogue On Consciousness* de Torin ",
-      "title": "Club de lectura: A Dialogue on Consciousness",
-      "start": "2026-11-17T21:30:00+00:00",
-      "end": "2026-11-17T23:00:00+00:00",
-      "venue": "",
-      "url": "https://www.meetup.com/effective-altruism-madrid/events/317196973/",
-      "source": "EA Madrid (Meetup)",
-      "organizer": "EA Madrid",
-      "ours": false,
-      "relevant_note": "",
-      "all_day": false
-    },
-    {
-      "description": "",
-      "title": "Effective altruism coworking session",
-      "start": "2026-11-18T09:00:00+00:00",
-      "end": "2026-11-18T12:00:00+00:00",
-      "venue": "Sopa Barcelona, Carrer de Roc Boronat, 114, Sant Martí, 08018 Barcelona, Spain",
-      "url": "https://luma.com/dx305ss3",
-      "source": "EA Barcelona (Luma)",
-      "organizer": "",
-      "ours": true,
-      "relevant_note": "",
-      "all_day": false
-    }
-  ],
-  "coming_up": [
     {
       "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos periódicamente textos (artículos, capítulos de libros) relacionados con la racionalidad y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. Esta semana comentaremos **estos artículos:** * **[Beautif",
       "title": "Club de lectura: posts de LessWrong",
@@ -69,10 +28,38 @@
       "all_day": false
     },
     {
+      "description": "Altruismo Eficaz y Racionalidad Madrid ¡Hola a todos! Volvemos con nuestra reunión mensual de EA Madrid! Para los que todavía no nos conocéis, nos reunimos para hablar de altruismo eficaz: un movimiento dedicado a explorar cómo podemos mejorar el mundo y ayudar a la gente de una manera más efectiva. Solemos hablar de temas como intervenciones para mitigar la pobreza extrema, inteligencia artificial, bienestar animal, racionalidad o filosofía moral. La idea es juntarnos en **un ambiente relajado ",
+      "title": "Social de Altruismo Eficaz: Noviembre",
+      "start": "2026-11-27T20:30:00+00:00",
+      "end": "2026-11-27T22:30:00+00:00",
+      "venue": "",
+      "url": "https://www.meetup.com/effective-altruism-madrid/events/317524800/",
+      "source": "EA Madrid (Meetup)",
+      "organizer": "EA Madrid",
+      "ours": false,
+      "relevant_note": "",
+      "all_day": false
+    }
+  ],
+  "coming_up": [
+    {
+      "description": "Altruismo Eficaz y Racionalidad Madrid **Club de lectura racionalista** La [racionalidad](https://www.lesswrong.com/tag/rationality) es el arte de pensar de formas que conduzcan a creencias certeras y a la toma de buenas decisiones. En este club de lectura proponemos textos (artículos, capítulos de libros) relacionados con la racionalidad periódicamente y los comentamos de forma informal y desenfadada en una reunión por videoconferencia. **Finalizamos con *A Dialogue On Consciousness* de Torin A",
+      "title": "Club de lectura: A Dialogue on Consciousness",
+      "start": "2026-12-01T21:30:00+00:00",
+      "end": "2026-12-01T23:00:00+00:00",
+      "venue": "",
+      "url": "https://www.meetup.com/effective-altruism-madrid/events/317524888/",
+      "source": "EA Madrid (Meetup)",
+      "organizer": "EA Madrid",
+      "ours": false,
+      "relevant_note": "",
+      "all_day": false
+    },
+    {
       "description": "The Social Impact Meetups Our social impact Meetup is back! At a time when securing and sustaining funding has become more challenging for many organizations in the impact space, we are coming together to reflect on the outcomes of COP31, share resilient leadership experiences and practices, learn from one another, and connect Welcome and Introduction by Devex (5 min) - Alex Cabaret Mini-Briefing: Key Outcomes from COP31 (10 min) - Lluis Vilardell Talk and Practice: Resilient Leadership - Naviga",
       "title": "COP31 Outcomes and Leading Impact in times of uncertainty",
-      "start": "2026-11-26T19:00:00+00:00",
-      "end": "2026-11-26T21:30:00+00:00",
+      "start": "2026-12-03T19:00:00+00:00",
+      "end": "2026-12-03T21:00:00+00:00",
       "venue": "",
       "url": "https://www.meetup.com/barcelona-international-development-professionals/events/317352530/",
       "source": "Social Impact Meetups (Meetup)",
@@ -95,152 +82,109 @@
       "all_day": false
     }
   ],
-  "opportunities": [
-    {
-      "title": "Help Us Respond to Enormous Global Needs: Why We’re Recommending the All Grants Fund",
-      "url": "https://forum.effectivealtruism.org/posts/miuFNTS2s5zk3gYWJ/help-us-respond-to-enormous-global-needs-why-we-re",
-      "posted": "2026-11-13T22:42:58.595000+00:00",
-      "score": 23,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Seeking Facilitators for a Global Mental Health & Wellbeing Project Incubator",
-      "url": "https://forum.effectivealtruism.org/posts/e79W9f8jZwcxEnHuQ/seeking-facilitators-for-a-global-mental-health-and-1",
-      "posted": "2026-11-11T15:55:50.972000+00:00",
-      "score": 15,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Announcing our 2026 Charity Recommendations",
-      "url": "https://forum.effectivealtruism.org/posts/uaTctowvZ5fj7dCB2/announcing-our-2026-charity-recommendations",
-      "posted": "2026-11-10T16:58:16.049000+00:00",
-      "score": 60,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "We want to run events for you!",
-      "url": "https://forum.effectivealtruism.org/posts/y4PqHqEKiKsR7zTzJ/we-want-to-run-events-for-you",
-      "posted": "2026-11-10T16:21:36.121000+00:00",
-      "score": 25,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "Request for Proposals: Incubation",
-      "url": "https://forum.effectivealtruism.org/posts/bGxQuGSTWpm8HCmtj/request-for-proposals-incubation",
-      "posted": "2026-11-09T19:10:46.191000+00:00",
-      "score": 26,
-      "source": "EA Forum — Opportunities to take action"
-    },
-    {
-      "title": "AI agents for effective causes",
-      "url": "https://forum.effectivealtruism.org/posts/6sNR5KuzSQHo5GDeo/ai-agents-for-effective-causes",
-      "posted": "2026-11-07T18:48:03.962000+00:00",
-      "score": 14,
-      "source": "EA Forum — Opportunities to take action"
-    }
-  ],
+  "opportunities": [],
   "jobs": {
     "Remote — Europe": [
       {
-        "title": "Coordinator, SparkWell",
-        "org": "Anti Entropy",
-        "url": "https://docs.google.com/document/d/1Z7szio2o3gjGXlYBSr6eKkzhm1H33koRab-mBzwhiC8/edit?tab=t.0&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-11T00:00:00+00:00",
+        "title": "Policy Careers Manager",
+        "org": "Impactful Policy Careers",
+        "url": "https://www.impactfulpolicycareers.com/career-pathways-manager?fbclid=IwY2xjawVYj2VleHRuA2FlbQIxMQBwZG9mAWJyaWQRMThqTzhZemdqQU9RSjVUTmNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfbS5eL20eqNdR23NNk3tfNr6ZcQDVArGDi3UwaBlP1KN6xhOSk1IVsvmNAcA_aem_sYArNG5HTlA4IFAutnewng&utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-17T00:00:00+00:00",
         "closes": "2026-11-29T00:00:00+00:00",
-        "tier": "Remote — Europe",
-        "location": "Remote, USA, Remote, Europe",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Student Trainee, Operations Assistance",
-        "org": "Effective Altruism Germany",
-        "url": "https://www.effektiveraltruismus.de/jobs?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-13T00:00:00+00:00",
-        "closes": "2026-11-30T00:00:00+00:00",
-        "tier": "Remote — Europe",
-        "location": "Remote, Germany",
-        "source": "80,000 Hours job board"
-      },
-      {
-        "title": "Talos Fellowship",
-        "org": "Talos Network",
-        "url": "https://www.talosnetwork.org/talos-fellowship?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-11T00:00:00+00:00",
-        "closes": "2026-12-06T00:00:00+00:00",
         "tier": "Remote — Europe",
         "location": "Remote, Europe",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Talos Incubator, Europe",
-        "org": "Talos Network",
-        "url": "https://www.talosnetwork.org/talos-incubator-europe?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-09T00:04:42+00:00",
-        "closes": "2026-12-06T00:00:00+00:00",
+        "title": "Researcher, Technical AI Governance",
+        "org": "Le Centre pour la Sécurité de l'IA",
+        "url": "https://cesia.org/en/careers/technical-ai-governance-researcher/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-16T00:01:00+00:00",
+        "closes": "2026-12-15T00:00:00+00:00",
         "tier": "Remote — Europe",
-        "location": "Brussels, Belgium, Remote, Europe",
+        "location": "Remote, Europe",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Talent Pool, Senior Policy Experts in AI",
+        "org": "The School for Moral Ambition",
+        "url": "https://careers.moralambition.org/en/jobs/8629605-talent-pool-senior-policy-experts-in-ai/f9411b71-1451-4af0-b5bc-eb8d79ae71dd?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-18T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Europe",
+        "location": "Remote, Europe",
+        "source": "80,000 Hours job board"
+      },
+      {
+        "title": "Talent Pool, AI Hardware Experts",
+        "org": "The School for Moral Ambition",
+        "url": "https://careers.moralambition.org/en/jobs/8629604-talent-pool-ai-hardware-experts/f2fc2603-c16e-452c-974d-9f75a0df9e76?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-18T00:00:00+00:00",
+        "closes": null,
+        "tier": "Remote — Europe",
+        "location": "Remote, Europe",
         "source": "80,000 Hours job board"
       }
     ],
     "Remote — Global": [
       {
-        "title": "AI Safety for Italy Mentorship Program",
-        "org": "AI Safety for Italy",
-        "url": "https://www.ais4i.it/mentorship/?utm_source=aisafety.com&utm_medium=referral&utm_campaign=training",
-        "posted": "2026-11-13T00:00:00+00:00",
-        "closes": "2026-11-20T00:00:00+00:00",
+        "title": "Mentor, Supervised Program for Alignment Research (Spring 2027)",
+        "org": "Kairos",
+        "url": "https://sparai.org/mentors/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-17T00:03:00+00:00",
+        "closes": "2026-11-30T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Director, Marketing and Communications",
-        "org": "Centre for Effective Altruism",
-        "url": "https://www.centreforeffectivealtruism.org/careers?ashby_jid=685f1ac4-08e9-494d-b8d1-eff2f28ddd99&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-13T00:04:56+00:00",
-        "closes": "2026-12-03T00:00:00+00:00",
+        "title": "Course, AI Safety in China (December 2026)",
+        "org": "Hong Kong AI Safety Hub",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfDLVAVjlth9dLbpfRSJLbn7bHTFV1C5jEwip8_nd17hLAlIA/viewform?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-17T00:00:00+00:00",
+        "closes": "2026-11-30T00:00:00+00:00",
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Board Member / Board Chair",
-        "org": "EA Somalia",
-        "url": "https://docs.google.com/document/d/1qMkqSmHdqAY8qemlaUK17E8BYuyqCf_t/edit?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-13T00:00:00+00:00",
+        "title": "Lead Research Engineer, AI Evaluations and Red Teaming",
+        "org": "Syntony",
+        "url": "https://www.syntonyresearch.ai/work/ai-evaluation-engineer/?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-17T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Digital Media Accelerator",
-        "org": "Future of Life Institute",
-        "url": "https://futureoflife.org/project/digital-media-accelerator/?utm_source=newsletter.futureoflife.org&utm_medium=newsletter&utm_campaign=future-of-life-institute-newsletter-one-big-beautiful-bill-banning-state-ai-laws",
-        "posted": "2026-11-13T00:00:00+00:00",
+        "title": "AI Safety Residency",
+        "org": "Women Who Do Data",
+        "url": "https://www.w2d2.org/blog/2026-11-ai-safety-residency?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-17T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Facilitator",
-        "org": "Mercial",
-        "url": "https://mercial.uk/facilitators?utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-13T00:00:00+00:00",
+        "title": "Talent Pool, Founders in AI",
+        "org": "The School for Moral Ambition",
+        "url": "https://careers.moralambition.org/en/jobs/8552014-talent-pool-founders-in-ai/ebfa1339-d2fa-4eb4-a9a1-b1557d4556f3?utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-18T00:00:00+00:00",
         "closes": null,
         "tier": "Remote — Global",
         "location": "Remote, Global",
         "source": "80,000 Hours job board"
       },
       {
-        "title": "Staff Technical Writer",
+        "title": "Loss of Control Lead, Frontier Safety",
         "org": "FAR AI",
-        "url": "https://jobs.ashbyhq.com/far.ai/544abe12-1a7a-4759-abc0-b3bd33626645?embed=js&utm_source=80000hours&utm_medium=job-board",
-        "posted": "2026-11-13T00:04:33+00:00",
+        "url": "https://jobs.ashbyhq.com/far.ai/944c8ddd-8dd6-4fa2-aa54-6e8ed4fd3c15?embed=js&utm_source=80000hours&utm_medium=job-board",
+        "posted": "2026-11-20T00:04:13+00:00",
         "closes": null,
         "tier": "Remote — Global",
-        "location": "Remote, Global",
+        "location": "Remote, Global, Remote, USA",
         "source": "80,000 Hours job board"
       }
     ]
